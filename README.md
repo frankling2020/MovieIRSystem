@@ -4,15 +4,11 @@
 
 ### Movie Search Engine
 <div align="center">
-    <img src="results/streamlit_interface.png" style="width:75%">
-</div>
-<p>
-    In the modern entertainment landscape, finding the perfect movie across numerous streaming platforms has become a challenging task. Current recommendation systems often fall short, relying on generic algorithms or user ratings that overlook individual preferences. Our project addresses this challenge by redefining the movie discovery experience. Unlike traditional approaches, our innovative pipeline combines exact matching with semantic understanding and refined re-ranking. This approach not only achieves a notable increase of 0.11 in nDCG@10 over the baseline BM25 but also aligns more closely with user intent and content relevance. Our detailed ablation study further highlights the efficacy of refined re-ranking and feature extraction in this context. We also discuss and address ethical considerations in genre shift and fairness. Additionally, we emphasize a seamless user experience through the design of an intuitive front-end web page. Through rigorous evaluation, our project identifies the strengths and weaknesses of our approach, paving the way for future advancements in movie retrieval systems. Our goal is to make discovering the perfect movie as enjoyable as the viewing experience itself.
-</p>
-
-<div align="center">
     <img src="results/pipeline.png" style="width:75%">
 </div>
+<p>
+    In the modern entertainment landscape, finding the perfect movie across numerous streaming platforms has become a challenging task. Current recommendation systems often fall short, relying on generic algorithms or user ratings that overlook individual preferences. Our project addresses this challenge by redefining the movie discovery experience. Unlike traditional approaches, our innovative pipeline combines exact matching with semantic understanding and refined re-ranking. This approach not only achieves a notable increase of 0.11 in nDCG@10 over the baseline BM25 but also aligns more closely with user intent and content relevance.
+</p>
 
 
 ### Code and Data
@@ -27,6 +23,9 @@
 </p>
 <p>
     Please see the queries in the query.txt in the data directory.
+</p>
+<p>
+    One can get the encoded_movie_desc.npy through this <a href ="https://drive.google.com/file/d/1GZD0sijjbJwX08TE9m6rbN8uXvnCQM0t/view?usp=sharing">link</a> or you can reproduce it with analysis/vev_rep_with_pertrain.ipynb file.
 </p>
 
 ### Setup
@@ -56,7 +55,9 @@
     streamlit run run.py
     ```
 2. You can select the models in the sidebar
-
+<div align="center">
+    <img src="results/streamlit_interface.png" style="width:75%">
+</div>
 
 ### Results
 <p>
@@ -84,6 +85,11 @@
 <div align="center">
     <img src="results/sample2.png" style="width:75%">
 </div>
+
+### Conclusion
+<p>
+Our detailed ablation study further highlights the efficacy of refined re-ranking and feature extraction in this context. We also discuss and address ethical considerations in genre shift and fairness. Additionally, we emphasize a seamless user experience through the design of an intuitive front-end web page. Through rigorous evaluation, our project identifies the strengths and weaknesses of our approach, paving the way for future advancements in movie retrieval systems. Our goal is to make discovering the perfect movie as enjoyable as the viewing experience itself.
+</p>
 
 ### Contributions
 - Jia Zhu (zjjj@umich.edu)
