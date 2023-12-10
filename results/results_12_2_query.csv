@@ -1,0 +1,941 @@
+docid,title,rank,query,qid,model
+257,Star Wars: Episode IV - A New Hope (1977),1,Movies with epic space battles.,1,bm25-no-stem
+5841,"Lord of the Rings: The Two Towers, The (2002)",2,Movies with epic space battles.,1,bm25-no-stem
+7320,Troy (2004),3,Movies with epic space battles.,1,bm25-no-stem
+74510,Zack Snyder's Justice League (2021),4,Movies with epic space battles.,1,bm25-no-stem
+23627,The Hobbit: The Battle of the Five Armies (2014),5,Movies with epic space battles.,1,bm25-no-stem
+7019,"Last Samurai, The (2003)",6,Movies with epic space battles.,1,bm25-no-stem
+2960,"Messenger: The Story of Joan of Arc, The (1999)",7,Movies with epic space battles.,1,bm25-no-stem
+2537,Star Wars: Episode I - The Phantom Menace (1999),8,Movies with epic space battles.,1,bm25-no-stem
+12595,Star Wars: The Clone Wars (2008),9,Movies with epic space battles.,1,bm25-no-stem
+13198,With Fire and Sword (Ogniem i mieczem) (1999),10,Movies with epic space battles.,1,bm25-no-stem
+257,Star Wars: Episode IV - A New Hope (1977),1,Movies with epic space battles.,1,lmart-no-stem
+5841,"Lord of the Rings: The Two Towers, The (2002)",2,Movies with epic space battles.,1,lmart-no-stem
+7320,Troy (2004),3,Movies with epic space battles.,1,lmart-no-stem
+74510,Zack Snyder's Justice League (2021),4,Movies with epic space battles.,1,lmart-no-stem
+23627,The Hobbit: The Battle of the Five Armies (2014),5,Movies with epic space battles.,1,lmart-no-stem
+7019,"Last Samurai, The (2003)",6,Movies with epic space battles.,1,lmart-no-stem
+2537,Star Wars: Episode I - The Phantom Menace (1999),7,Movies with epic space battles.,1,lmart-no-stem
+12595,Star Wars: The Clone Wars (2008),8,Movies with epic space battles.,1,lmart-no-stem
+16899,Michael the Brave (Mihai Viteazul) (1971),9,Movies with epic space battles.,1,lmart-no-stem
+81420,K.G.F: Chapter 2 (2022),10,Movies with epic space battles.,1,lmart-no-stem
+334,While You Were Sleeping (1995),1,Romantic comedies with mistaken identity.,2,bm25-no-stem
+2579,Notting Hill (1999),2,Romantic comedies with mistaken identity.,2,bm25-no-stem
+1273,When Harry Met Sally... (1989),3,Romantic comedies with mistaken identity.,2,bm25-no-stem
+4718,Serendipity (2001),4,Romantic comedies with mistaken identity.,2,bm25-no-stem
+3004,"Shop Around the Corner, The (1940)",5,Romantic comedies with mistaken identity.,2,bm25-no-stem
+6044,How to Lose a Guy in 10 Days (2003),6,Romantic comedies with mistaken identity.,2,bm25-no-stem
+589,Pretty Woman (1990),7,Romantic comedies with mistaken identity.,2,bm25-no-stem
+2333,You've Got Mail (1998),8,Romantic comedies with mistaken identity.,2,bm25-no-stem
+5511,Sweet Home Alabama (2002),9,Romantic comedies with mistaken identity.,2,bm25-no-stem
+2632,Runaway Bride (1999),10,Romantic comedies with mistaken identity.,2,bm25-no-stem
+334,While You Were Sleeping (1995),1,Romantic comedies with mistaken identity.,2,lmart-no-stem
+2579,Notting Hill (1999),2,Romantic comedies with mistaken identity.,2,lmart-no-stem
+1273,When Harry Met Sally... (1989),3,Romantic comedies with mistaken identity.,2,lmart-no-stem
+4718,Serendipity (2001),4,Romantic comedies with mistaken identity.,2,lmart-no-stem
+6044,How to Lose a Guy in 10 Days (2003),5,Romantic comedies with mistaken identity.,2,lmart-no-stem
+589,Pretty Woman (1990),6,Romantic comedies with mistaken identity.,2,lmart-no-stem
+2333,You've Got Mail (1998),7,Romantic comedies with mistaken identity.,2,lmart-no-stem
+5511,Sweet Home Alabama (2002),8,Romantic comedies with mistaken identity.,2,lmart-no-stem
+10204,Just Like Heaven (2005),9,Romantic comedies with mistaken identity.,2,lmart-no-stem
+5832,Maid in Manhattan (2002),10,Romantic comedies with mistaken identity.,2,lmart-no-stem
+2049,"Secret of NIMH, The (1982)",1,Animated films featuring anthropomorphic animals.,3,bm25-no-stem
+12379,Kung Fu Panda (2008),2,Animated films featuring anthropomorphic animals.,3,bm25-no-stem
+5111,Ice Age (2002),3,Animated films featuring anthropomorphic animals.,3,bm25-no-stem
+9973,Madagascar (2005),4,Animated films featuring anthropomorphic animals.,3,bm25-no-stem
+4897,Fritz the Cat (1972),5,Animated films featuring anthropomorphic animals.,3,bm25-no-stem
+44420,Sing (2016),6,Animated films featuring anthropomorphic animals.,3,bm25-no-stem
+1006,Dumbo (1941),7,Animated films featuring anthropomorphic animals.,3,bm25-no-stem
+6767,Brother Bear (2003),8,Animated films featuring anthropomorphic animals.,3,bm25-no-stem
+1996,101 Dalmatians (One Hundred and One Dalmatians) (1961),9,Animated films featuring anthropomorphic animals.,3,bm25-no-stem
+43094,Storks (2016),10,Animated films featuring anthropomorphic animals.,3,bm25-no-stem
+2049,"Secret of NIMH, The (1982)",1,Animated films featuring anthropomorphic animals.,3,lmart-no-stem
+2941,Robin Hood (1973),2,Animated films featuring anthropomorphic animals.,3,lmart-no-stem
+12379,Kung Fu Panda (2008),3,Animated films featuring anthropomorphic animals.,3,lmart-no-stem
+13131,Rock-A-Doodle (1991),4,Animated films featuring anthropomorphic animals.,3,lmart-no-stem
+5111,Ice Age (2002),5,Animated films featuring anthropomorphic animals.,3,lmart-no-stem
+9973,Madagascar (2005),6,Animated films featuring anthropomorphic animals.,3,lmart-no-stem
+44420,Sing (2016),7,Animated films featuring anthropomorphic animals.,3,lmart-no-stem
+23412,Paddington (2014),8,Animated films featuring anthropomorphic animals.,3,lmart-no-stem
+1006,Dumbo (1941),9,Animated films featuring anthropomorphic animals.,3,lmart-no-stem
+6767,Brother Bear (2003),10,Animated films featuring anthropomorphic animals.,3,lmart-no-stem
+30133,Fantastic Beasts and Where to Find Them (2016),1,Fantasy movies with magical creatures.,4,bm25-no-stem
+30252,Fantastic Beasts and Where to Find Them 2 (2018),2,Fantasy movies with magical creatures.,4,bm25-no-stem
+1976,"Purple Rose of Cairo, The (1985)",3,Fantasy movies with magical creatures.,4,bm25-no-stem
+2003,Return to Oz (1985),4,Fantasy movies with magical creatures.,4,bm25-no-stem
+33390,Puella Magi Madoka Magica the Movie Part III: Rebellion (2013),5,Fantasy movies with magical creatures.,4,bm25-no-stem
+80890,Fantastic Beasts: The Secrets of Dumbledore (2022),6,Fantasy movies with magical creatures.,4,bm25-no-stem
+79533,Green Snake (2021),7,Fantasy movies with magical creatures.,4,bm25-no-stem
+72716,The King's Daughter (2020),8,Fantasy movies with magical creatures.,4,bm25-no-stem
+6793,"Magic Sword, The (1962)",9,Fantasy movies with magical creatures.,4,bm25-no-stem
+74442,The Elm Chanted Forest (1986),10,Fantasy movies with magical creatures.,4,bm25-no-stem
+30133,Fantastic Beasts and Where to Find Them (2016),1,Fantasy movies with magical creatures.,4,lmart-no-stem
+30252,Fantastic Beasts and Where to Find Them 2 (2018),2,Fantasy movies with magical creatures.,4,lmart-no-stem
+1976,"Purple Rose of Cairo, The (1985)",3,Fantasy movies with magical creatures.,4,lmart-no-stem
+2003,Return to Oz (1985),4,Fantasy movies with magical creatures.,4,lmart-no-stem
+33390,Puella Magi Madoka Magica the Movie Part III: Rebellion (2013),5,Fantasy movies with magical creatures.,4,lmart-no-stem
+80890,Fantastic Beasts: The Secrets of Dumbledore (2022),6,Fantasy movies with magical creatures.,4,lmart-no-stem
+79533,Green Snake (2021),7,Fantasy movies with magical creatures.,4,lmart-no-stem
+72716,The King's Daughter (2020),8,Fantasy movies with magical creatures.,4,lmart-no-stem
+6793,"Magic Sword, The (1962)",9,Fantasy movies with magical creatures.,4,lmart-no-stem
+74442,The Elm Chanted Forest (1986),10,Fantasy movies with magical creatures.,4,lmart-no-stem
+1939,Saving Private Ryan (1998),1,War films set during World War II.,5,bm25-no-stem
+12831,"Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",2,War films set during World War II.,5,bm25-no-stem
+7570,"Bridge Too Far, A (1977)",3,War films set during World War II.,5,bm25-no-stem
+4120,Enemy at the Gates (2001),4,War films set during World War II.,5,bm25-no-stem
+1239,Patton (1970),5,War films set during World War II.,5,bm25-no-stem
+1229,"Great Escape, The (1963)",6,War films set during World War II.,5,bm25-no-stem
+1217,"Bridge on the River Kwai, The (1957)",7,War films set during World War II.,5,bm25-no-stem
+2852,"Dirty Dozen, The (1967)",8,War films set during World War II.,5,bm25-no-stem
+2973,Tora! Tora! Tora! (1970),9,War films set during World War II.,5,bm25-no-stem
+10590,Sophie Scholl: The Final Days (Sophie Scholl - Die letzten Tage) (2005),10,War films set during World War II.,5,bm25-no-stem
+1939,Saving Private Ryan (1998),1,War films set during World War II.,5,lmart-no-stem
+12831,"Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",2,War films set during World War II.,5,lmart-no-stem
+7570,"Bridge Too Far, A (1977)",3,War films set during World War II.,5,lmart-no-stem
+4120,Enemy at the Gates (2001),4,War films set during World War II.,5,lmart-no-stem
+1239,Patton (1970),5,War films set during World War II.,5,lmart-no-stem
+1217,"Bridge on the River Kwai, The (1957)",6,War films set during World War II.,5,lmart-no-stem
+1201,"Boot, Das (Boat, The) (1981)",7,War films set during World War II.,5,lmart-no-stem
+2852,"Dirty Dozen, The (1967)",8,War films set during World War II.,5,lmart-no-stem
+2973,Tora! Tora! Tora! (1970),9,War films set during World War II.,5,lmart-no-stem
+10590,Sophie Scholl: The Final Days (Sophie Scholl - Die letzten Tage) (2005),10,War films set during World War II.,5,lmart-no-stem
+1189,"Blues Brothers, The (1980)",1,Films with memorable car chase sequences.,6,bm25-no-stem
+48759,Kingsman: The Golden Circle (2017),2,Films with memorable car chase sequences.,6,bm25-no-stem
+1323,Sling Blade (1996),3,Films with memorable car chase sequences.,6,bm25-no-stem
+2187,Ronin (1998),4,Films with memorable car chase sequences.,6,bm25-no-stem
+6952,Bullitt (1968),5,Films with memorable car chase sequences.,6,bm25-no-stem
+3617,Gone in 60 Seconds (2000),6,Films with memorable car chase sequences.,6,bm25-no-stem
+22028,Val Lewton:  The Man in the Shadows (2007),7,Films with memorable car chase sequences.,6,bm25-no-stem
+28100,Furious 7 (2015),8,Films with memorable car chase sequences.,6,bm25-no-stem
+17120,BlinkyTM (2011),9,Films with memorable car chase sequences.,6,bm25-no-stem
+6444,Spy Kids 3-D: Game Over (2003),10,Films with memorable car chase sequences.,6,bm25-no-stem
+1189,"Blues Brothers, The (1980)",1,Films with memorable car chase sequences.,6,lmart-no-stem
+48759,Kingsman: The Golden Circle (2017),2,Films with memorable car chase sequences.,6,lmart-no-stem
+1323,Sling Blade (1996),3,Films with memorable car chase sequences.,6,lmart-no-stem
+2187,Ronin (1998),4,Films with memorable car chase sequences.,6,lmart-no-stem
+6952,Bullitt (1968),5,Films with memorable car chase sequences.,6,lmart-no-stem
+3617,Gone in 60 Seconds (2000),6,Films with memorable car chase sequences.,6,lmart-no-stem
+34684,The Chinese Boxer (1970),7,Films with memorable car chase sequences.,6,lmart-no-stem
+22028,Val Lewton:  The Man in the Shadows (2007),8,Films with memorable car chase sequences.,6,lmart-no-stem
+28100,Furious 7 (2015),9,Films with memorable car chase sequences.,6,lmart-no-stem
+6444,Spy Kids 3-D: Game Over (2003),10,Films with memorable car chase sequences.,6,lmart-no-stem
+50775,A Crude Awakening (2006),1,Documentaries exploring environmental issues.,7,bm25-no-stem
+36071,The Otherworld (2013),2,Documentaries exploring environmental issues.,7,bm25-no-stem
+53915,The Ties That Bind (1985),3,Documentaries exploring environmental issues.,7,bm25-no-stem
+84594,Subject (2022),4,Documentaries exploring environmental issues.,7,bm25-no-stem
+9778,"Wild Parrots of Telegraph Hill, The (2003)",5,Documentaries exploring environmental issues.,7,bm25-no-stem
+27973,The Wrecking Crew (2008),6,Documentaries exploring environmental issues.,7,bm25-no-stem
+32114,The True Cost (2015),7,Documentaries exploring environmental issues.,7,bm25-no-stem
+19916,Minamata: The Victims and Their World (Minamata: Kanja-san to sono sekai) (1971),8,Documentaries exploring environmental issues.,7,bm25-no-stem
+28935,Return to Source: The Philosophy of The Matrix (2004),9,Documentaries exploring environmental issues.,7,bm25-no-stem
+16299,Into Eternity (2010),10,Documentaries exploring environmental issues.,7,bm25-no-stem
+50775,A Crude Awakening (2006),1,Documentaries exploring environmental issues.,7,lmart-no-stem
+36071,The Otherworld (2013),2,Documentaries exploring environmental issues.,7,lmart-no-stem
+53915,The Ties That Bind (1985),3,Documentaries exploring environmental issues.,7,lmart-no-stem
+84594,Subject (2022),4,Documentaries exploring environmental issues.,7,lmart-no-stem
+9778,"Wild Parrots of Telegraph Hill, The (2003)",5,Documentaries exploring environmental issues.,7,lmart-no-stem
+32114,The True Cost (2015),6,Documentaries exploring environmental issues.,7,lmart-no-stem
+57923,The History of White People in America (1985),7,Documentaries exploring environmental issues.,7,lmart-no-stem
+43039,"Karagoez catalogo 9,5 (1983)",8,Documentaries exploring environmental issues.,7,lmart-no-stem
+37624,In the Shadow of Women (2015),9,Documentaries exploring environmental issues.,7,lmart-no-stem
+16299,Into Eternity (2010),10,Documentaries exploring environmental issues.,7,lmart-no-stem
+44801,The Invisible Guest (2016),1,Crime thrillers with suspenseful interrogation scenes.,8,bm25-no-stem
+5159,Panic Room (2002),2,Crime thrillers with suspenseful interrogation scenes.,8,bm25-no-stem
+1893,Halloween (1978),3,Crime thrillers with suspenseful interrogation scenes.,8,bm25-no-stem
+1351,Jaws (1975),4,Crime thrillers with suspenseful interrogation scenes.,8,bm25-no-stem
+3402,Misery (1990),5,Crime thrillers with suspenseful interrogation scenes.,8,bm25-no-stem
+18635,Argo (2012),6,Crime thrillers with suspenseful interrogation scenes.,8,bm25-no-stem
+1188,Psycho (1960),7,Crime thrillers with suspenseful interrogation scenes.,8,bm25-no-stem
+65840,A Quiet Place Part II (2020),8,Crime thrillers with suspenseful interrogation scenes.,8,bm25-no-stem
+21,Copycat (1995),9,Crime thrillers with suspenseful interrogation scenes.,8,bm25-no-stem
+883,Rear Window (1954),10,Crime thrillers with suspenseful interrogation scenes.,8,bm25-no-stem
+44801,The Invisible Guest (2016),1,Crime thrillers with suspenseful interrogation scenes.,8,lmart-no-stem
+5159,Panic Room (2002),2,Crime thrillers with suspenseful interrogation scenes.,8,lmart-no-stem
+1893,Halloween (1978),3,Crime thrillers with suspenseful interrogation scenes.,8,lmart-no-stem
+1351,Jaws (1975),4,Crime thrillers with suspenseful interrogation scenes.,8,lmart-no-stem
+3402,Misery (1990),5,Crime thrillers with suspenseful interrogation scenes.,8,lmart-no-stem
+18635,Argo (2012),6,Crime thrillers with suspenseful interrogation scenes.,8,lmart-no-stem
+1188,Psycho (1960),7,Crime thrillers with suspenseful interrogation scenes.,8,lmart-no-stem
+65840,A Quiet Place Part II (2020),8,Crime thrillers with suspenseful interrogation scenes.,8,lmart-no-stem
+21,Copycat (1995),9,Crime thrillers with suspenseful interrogation scenes.,8,lmart-no-stem
+3698,What Lies Beneath (2000),10,Crime thrillers with suspenseful interrogation scenes.,8,lmart-no-stem
+70410,The Trial of the Chicago 7 (2020),1,Historical dramas with powerful courtroom scenes.,9,bm25-no-stem
+43640,Denial (2016),2,Historical dramas with powerful courtroom scenes.,9,bm25-no-stem
+1630,Amistad (1997),3,Historical dramas with powerful courtroom scenes.,9,bm25-no-stem
+6655,Judgment at Nuremberg (1961),4,Historical dramas with powerful courtroom scenes.,9,bm25-no-stem
+28611,Woman in Gold (2015),5,Historical dramas with powerful courtroom scenes.,9,bm25-no-stem
+77882,The Last Duel (2021),6,Historical dramas with powerful courtroom scenes.,9,bm25-no-stem
+3373,Inherit the Wind (1960),7,Historical dramas with powerful courtroom scenes.,9,bm25-no-stem
+3701,Anatomy of a Murder (1959),8,Historical dramas with powerful courtroom scenes.,9,bm25-no-stem
+57782,On the Basis of Sex (2018),9,Historical dramas with powerful courtroom scenes.,9,bm25-no-stem
+50628,Molly's Game (2017),10,Historical dramas with powerful courtroom scenes.,9,bm25-no-stem
+70410,The Trial of the Chicago 7 (2020),1,Historical dramas with powerful courtroom scenes.,9,lmart-no-stem
+3292,JFK (1991),2,Historical dramas with powerful courtroom scenes.,9,lmart-no-stem
+43640,Denial (2016),3,Historical dramas with powerful courtroom scenes.,9,lmart-no-stem
+1630,Amistad (1997),4,Historical dramas with powerful courtroom scenes.,9,lmart-no-stem
+28611,Woman in Gold (2015),5,Historical dramas with powerful courtroom scenes.,9,lmart-no-stem
+77882,The Last Duel (2021),6,Historical dramas with powerful courtroom scenes.,9,lmart-no-stem
+3373,Inherit the Wind (1960),7,Historical dramas with powerful courtroom scenes.,9,lmart-no-stem
+3701,Anatomy of a Murder (1959),8,Historical dramas with powerful courtroom scenes.,9,lmart-no-stem
+57782,On the Basis of Sex (2018),9,Historical dramas with powerful courtroom scenes.,9,lmart-no-stem
+4218,Eight Men Out (1988),10,Historical dramas with powerful courtroom scenes.,9,lmart-no-stem
+257,Star Wars: Episode IV - A New Hope (1977),1,Science fiction movies with futuristic cityscapes.,10,bm25-no-stem
+14104,Avatar (2009),2,Science fiction movies with futuristic cityscapes.,10,bm25-no-stem
+54258,Anon (2018),3,Science fiction movies with futuristic cityscapes.,10,bm25-no-stem
+1183,Alien (1979),4,Science fiction movies with futuristic cityscapes.,10,bm25-no-stem
+1475,"Fifth Element, The (1997)",5,Science fiction movies with futuristic cityscapes.,10,bm25-no-stem
+1591,Gattaca (1997),6,Science fiction movies with futuristic cityscapes.,10,bm25-no-stem
+22449,Autómata (Automata) (2014),7,Science fiction movies with futuristic cityscapes.,10,bm25-no-stem
+2437,Logan's Run (1976),8,Science fiction movies with futuristic cityscapes.,10,bm25-no-stem
+49165,Geostorm (2017),9,Science fiction movies with futuristic cityscapes.,10,bm25-no-stem
+24869,TekWar: TekJustice (1994),10,Science fiction movies with futuristic cityscapes.,10,bm25-no-stem
+257,Star Wars: Episode IV - A New Hope (1977),1,Science fiction movies with futuristic cityscapes.,10,lmart-no-stem
+14104,Avatar (2009),2,Science fiction movies with futuristic cityscapes.,10,lmart-no-stem
+54258,Anon (2018),3,Science fiction movies with futuristic cityscapes.,10,lmart-no-stem
+1183,Alien (1979),4,Science fiction movies with futuristic cityscapes.,10,lmart-no-stem
+1475,"Fifth Element, The (1997)",5,Science fiction movies with futuristic cityscapes.,10,lmart-no-stem
+1591,Gattaca (1997),6,Science fiction movies with futuristic cityscapes.,10,lmart-no-stem
+22449,Autómata (Automata) (2014),7,Science fiction movies with futuristic cityscapes.,10,lmart-no-stem
+2437,Logan's Run (1976),8,Science fiction movies with futuristic cityscapes.,10,lmart-no-stem
+49165,Geostorm (2017),9,Science fiction movies with futuristic cityscapes.,10,lmart-no-stem
+24869,TekWar: TekJustice (1994),10,Science fiction movies with futuristic cityscapes.,10,lmart-no-stem
+14338,Shutter Island (2010),1,Psychological thrillers with unexpected and shocking endings.,11,bm25-no-stem
+37538,10 Cloverfield Lane (2016),2,Psychological thrillers with unexpected and shocking endings.,11,bm25-no-stem
+12688,Martyrs (2008),3,Psychological thrillers with unexpected and shocking endings.,11,bm25-no-stem
+2600,Run Lola Run (Lola rennt) (1998),4,Psychological thrillers with unexpected and shocking endings.,11,bm25-no-stem
+2322,Clue (1985),5,Psychological thrillers with unexpected and shocking endings.,11,bm25-no-stem
+13783,Paranormal Activity (2009),6,Psychological thrillers with unexpected and shocking endings.,11,bm25-no-stem
+14415,Remember Me (2010),7,Psychological thrillers with unexpected and shocking endings.,11,bm25-no-stem
+7130,The Butterfly Effect (2004),8,Psychological thrillers with unexpected and shocking endings.,11,bm25-no-stem
+76214,Erica (2019),9,Psychological thrillers with unexpected and shocking endings.,11,bm25-no-stem
+41503,"Right Now, Wrong Then (2015)",10,Psychological thrillers with unexpected and shocking endings.,11,bm25-no-stem
+14338,Shutter Island (2010),1,Psychological thrillers with unexpected and shocking endings.,11,lmart-no-stem
+37538,10 Cloverfield Lane (2016),2,Psychological thrillers with unexpected and shocking endings.,11,lmart-no-stem
+12688,Martyrs (2008),3,Psychological thrillers with unexpected and shocking endings.,11,lmart-no-stem
+2600,Run Lola Run (Lola rennt) (1998),4,Psychological thrillers with unexpected and shocking endings.,11,lmart-no-stem
+2322,Clue (1985),5,Psychological thrillers with unexpected and shocking endings.,11,lmart-no-stem
+13783,Paranormal Activity (2009),6,Psychological thrillers with unexpected and shocking endings.,11,lmart-no-stem
+14415,Remember Me (2010),7,Psychological thrillers with unexpected and shocking endings.,11,lmart-no-stem
+7130,The Butterfly Effect (2004),8,Psychological thrillers with unexpected and shocking endings.,11,lmart-no-stem
+76214,Erica (2019),9,Psychological thrillers with unexpected and shocking endings.,11,lmart-no-stem
+66757,Driveways (2019),10,Psychological thrillers with unexpected and shocking endings.,11,lmart-no-stem
+20011,"Conjuring, The (2013)",1,Horror movies with haunted house settings.,12,bm25-no-stem
+2459,"Haunting, The (1963)",2,Horror movies with haunted house settings.,12,bm25-no-stem
+4616,"Others, The (2001)",3,Horror movies with haunted house settings.,12,bm25-no-stem
+1905,Poltergeist (1982),4,Horror movies with haunted house settings.,12,bm25-no-stem
+11983,"Orphanage, The (Orfanato, El) (2007)",5,Horror movies with haunted house settings.,12,bm25-no-stem
+2428,House on Haunted Hill (1959),6,Horror movies with haunted house settings.,12,bm25-no-stem
+16231,Insidious (2010),7,Horror movies with haunted house settings.,12,bm25-no-stem
+70012,His House (2020),8,Horror movies with haunted house settings.,12,bm25-no-stem
+22067,Housebound (2014),9,Horror movies with haunted house settings.,12,bm25-no-stem
+41034,The Conjuring 2 (2016),10,Horror movies with haunted house settings.,12,bm25-no-stem
+20011,"Conjuring, The (2013)",1,Horror movies with haunted house settings.,12,lmart-no-stem
+2459,"Haunting, The (1963)",2,Horror movies with haunted house settings.,12,lmart-no-stem
+4616,"Others, The (2001)",3,Horror movies with haunted house settings.,12,lmart-no-stem
+1905,Poltergeist (1982),4,Horror movies with haunted house settings.,12,lmart-no-stem
+11983,"Orphanage, The (Orfanato, El) (2007)",5,Horror movies with haunted house settings.,12,lmart-no-stem
+2428,House on Haunted Hill (1959),6,Horror movies with haunted house settings.,12,lmart-no-stem
+16231,Insidious (2010),7,Horror movies with haunted house settings.,12,lmart-no-stem
+70012,His House (2020),8,Horror movies with haunted house settings.,12,lmart-no-stem
+22067,Housebound (2014),9,Horror movies with haunted house settings.,12,lmart-no-stem
+41034,The Conjuring 2 (2016),10,Horror movies with haunted house settings.,12,lmart-no-stem
+9286,"Animatrix, The (2003)",1,Films exploring philosophical concepts of time.,13,bm25-no-stem
+45369,Lemonade (2016),2,Films exploring philosophical concepts of time.,13,bm25-no-stem
+16444,Midnight in Paris (2011),3,Films exploring philosophical concepts of time.,13,bm25-no-stem
+6547,Ikiru (1952),4,Films exploring philosophical concepts of time.,13,bm25-no-stem
+75087,The Bride Talks in Her Sleep (1933),5,Films exploring philosophical concepts of time.,13,bm25-no-stem
+60308,Deutschland 09 - 13 kurze Filme zur Lage der Nation (2009),6,Films exploring philosophical concepts of time.,13,bm25-no-stem
+66874,In Search of Dracula (1975),7,Films exploring philosophical concepts of time.,13,bm25-no-stem
+18136,Sound of My Voice (2011),8,Films exploring philosophical concepts of time.,13,bm25-no-stem
+78521,Ahir Shah: Dots (2021),9,Films exploring philosophical concepts of time.,13,bm25-no-stem
+71658,Adagio (2001),10,Films exploring philosophical concepts of time.,13,bm25-no-stem
+9286,"Animatrix, The (2003)",1,Films exploring philosophical concepts of time.,13,lmart-no-stem
+45369,Lemonade (2016),2,Films exploring philosophical concepts of time.,13,lmart-no-stem
+16444,Midnight in Paris (2011),3,Films exploring philosophical concepts of time.,13,lmart-no-stem
+28935,Return to Source: The Philosophy of The Matrix (2004),4,Films exploring philosophical concepts of time.,13,lmart-no-stem
+6547,Ikiru (1952),5,Films exploring philosophical concepts of time.,13,lmart-no-stem
+60308,Deutschland 09 - 13 kurze Filme zur Lage der Nation (2009),6,Films exploring philosophical concepts of time.,13,lmart-no-stem
+66874,In Search of Dracula (1975),7,Films exploring philosophical concepts of time.,13,lmart-no-stem
+76629,Samadhi Part 2: It's Not What You Think (2018),8,Films exploring philosophical concepts of time.,13,lmart-no-stem
+31500,Station to Station (2014),9,Films exploring philosophical concepts of time.,13,lmart-no-stem
+18136,Sound of My Voice (2011),10,Films exploring philosophical concepts of time.,13,lmart-no-stem
+14945,Knight and Day (2010),1,Action-packed jungle adventure with dangerous creatures.,14,bm25-no-stem
+76840,Jungle Cruise (2021),2,Action-packed jungle adventure with dangerous creatures.,14,bm25-no-stem
+10973,Crank (2006),3,Action-packed jungle adventure with dangerous creatures.,14,bm25-no-stem
+429,Cliffhanger (1993),4,Action-packed jungle adventure with dangerous creatures.,14,bm25-no-stem
+49090,Surviving Evil (2009),5,Action-packed jungle adventure with dangerous creatures.,14,bm25-no-stem
+41350,The Legend of Tarzan (2016),6,Action-packed jungle adventure with dangerous creatures.,14,bm25-no-stem
+73100,The Ruby Princess Runs Away (2001),7,Action-packed jungle adventure with dangerous creatures.,14,bm25-no-stem
+71813,Demon Slayer the Movie: Mugen Train (2020),8,Action-packed jungle adventure with dangerous creatures.,14,bm25-no-stem
+64120,Mojin: The Worm Valley (2018),9,Action-packed jungle adventure with dangerous creatures.,14,bm25-no-stem
+86320,Mission: Impossible - Dead Reckoning Part One (2023),10,Action-packed jungle adventure with dangerous creatures.,14,bm25-no-stem
+81199,RRR (2022),1,Action-packed jungle adventure with dangerous creatures.,14,lmart-no-stem
+14945,Knight and Day (2010),2,Action-packed jungle adventure with dangerous creatures.,14,lmart-no-stem
+76840,Jungle Cruise (2021),3,Action-packed jungle adventure with dangerous creatures.,14,lmart-no-stem
+10973,Crank (2006),4,Action-packed jungle adventure with dangerous creatures.,14,lmart-no-stem
+429,Cliffhanger (1993),5,Action-packed jungle adventure with dangerous creatures.,14,lmart-no-stem
+41350,The Legend of Tarzan (2016),6,Action-packed jungle adventure with dangerous creatures.,14,lmart-no-stem
+73100,The Ruby Princess Runs Away (2001),7,Action-packed jungle adventure with dangerous creatures.,14,lmart-no-stem
+71813,Demon Slayer the Movie: Mugen Train (2020),8,Action-packed jungle adventure with dangerous creatures.,14,lmart-no-stem
+30811,Extinction (2014),9,Action-packed jungle adventure with dangerous creatures.,14,lmart-no-stem
+75533,Russian Raid (2020),10,Action-packed jungle adventure with dangerous creatures.,14,lmart-no-stem
+932,It's a Wonderful Life (1946),1,Heartwarming Christmas movies with family themes.,15,bm25-no-stem
+6812,Elf (2003),2,Heartwarming Christmas movies with family themes.,15,bm25-no-stem
+2712,"Christmas Story, A (1983)",3,Heartwarming Christmas movies with family themes.,15,bm25-no-stem
+578,Home Alone (1990),4,Heartwarming Christmas movies with family themes.,15,bm25-no-stem
+313,"Santa Clause, The (1994)",5,Heartwarming Christmas movies with family themes.,15,bm25-no-stem
+2332,Christmas Vacation (National Lampoon's Christmas Vacation) (1989),6,Heartwarming Christmas movies with family themes.,15,bm25-no-stem
+23412,Paddington (2014),7,Heartwarming Christmas movies with family themes.,15,bm25-no-stem
+64020,Klaus (2019),8,Heartwarming Christmas movies with family themes.,15,bm25-no-stem
+897,Meet Me in St. Louis (1944),9,Heartwarming Christmas movies with family themes.,15,bm25-no-stem
+63969,Noelle (2019),10,Heartwarming Christmas movies with family themes.,15,bm25-no-stem
+932,It's a Wonderful Life (1946),1,Heartwarming Christmas movies with family themes.,15,lmart-no-stem
+6812,Elf (2003),2,Heartwarming Christmas movies with family themes.,15,lmart-no-stem
+2712,"Christmas Story, A (1983)",3,Heartwarming Christmas movies with family themes.,15,lmart-no-stem
+578,Home Alone (1990),4,Heartwarming Christmas movies with family themes.,15,lmart-no-stem
+313,"Santa Clause, The (1994)",5,Heartwarming Christmas movies with family themes.,15,lmart-no-stem
+2332,Christmas Vacation (National Lampoon's Christmas Vacation) (1989),6,Heartwarming Christmas movies with family themes.,15,lmart-no-stem
+23412,Paddington (2014),7,Heartwarming Christmas movies with family themes.,15,lmart-no-stem
+64020,Klaus (2019),8,Heartwarming Christmas movies with family themes.,15,lmart-no-stem
+10455,"Family Stone, The (2005)",9,Heartwarming Christmas movies with family themes.,15,lmart-no-stem
+7896,Tokyo Godfathers (2003),10,Heartwarming Christmas movies with family themes.,15,lmart-no-stem
+17233,Margin Call (2011),1,Crime thriller set in a bustling city market.,16,bm25-no-stem
+27733,The Connection (2014),2,Crime thriller set in a bustling city market.,16,bm25-no-stem
+41764,The Terror of the Tongs (1961),3,Crime thriller set in a bustling city market.,16,bm25-no-stem
+77220,City of Gold (1957),4,Crime thriller set in a bustling city market.,16,bm25-no-stem
+39710,Rio 100 Degrees (1955),5,Crime thriller set in a bustling city market.,16,bm25-no-stem
+77577,PAW Patrol: The Movie (2021),6,Crime thriller set in a bustling city market.,16,bm25-no-stem
+30422,Shootout at Lokhandwala (2007),7,Crime thriller set in a bustling city market.,16,bm25-no-stem
+46450,The Loner (2016),8,Crime thriller set in a bustling city market.,16,bm25-no-stem
+50727,Rejection (2009),9,Crime thriller set in a bustling city market.,16,bm25-no-stem
+80113,Bob Dylan: Busy Being Born,10,Crime thriller set in a bustling city market.,16,bm25-no-stem
+17233,Margin Call (2011),1,Crime thriller set in a bustling city market.,16,lmart-no-stem
+36955,The Dollmaker (1984),2,Crime thriller set in a bustling city market.,16,lmart-no-stem
+27733,The Connection (2014),3,Crime thriller set in a bustling city market.,16,lmart-no-stem
+62445,Black Mother (2018),4,Crime thriller set in a bustling city market.,16,lmart-no-stem
+39710,Rio 100 Degrees (1955),5,Crime thriller set in a bustling city market.,16,lmart-no-stem
+77577,PAW Patrol: The Movie (2021),6,Crime thriller set in a bustling city market.,16,lmart-no-stem
+24522,Paradise (2013),7,Crime thriller set in a bustling city market.,16,lmart-no-stem
+14684,Merantau (2009),8,Crime thriller set in a bustling city market.,16,lmart-no-stem
+56371,Flavors of Youth (2018),9,Crime thriller set in a bustling city market.,16,lmart-no-stem
+22320,"Last Season, The (2014)",10,Crime thriller set in a bustling city market.,16,lmart-no-stem
+2071,"NeverEnding Story, The (1984)",1,Fantasy quest with friends and magical encounters.,17,bm25-no-stem
+30133,Fantastic Beasts and Where to Find Them (2016),2,Fantasy quest with friends and magical encounters.,17,bm25-no-stem
+1944,"Black Cauldron, The (1985)",3,Fantasy quest with friends and magical encounters.,17,bm25-no-stem
+6793,"Magic Sword, The (1962)",4,Fantasy quest with friends and magical encounters.,17,bm25-no-stem
+44568,The Legend of Hillbilly John (1974),5,Fantasy quest with friends and magical encounters.,17,bm25-no-stem
+48673,Friend of the Jolly Devil (1987),6,Fantasy quest with friends and magical encounters.,17,bm25-no-stem
+32630,Puella Magi Madoka Magica the Movie Part I: Beginnings (2012),7,Fantasy quest with friends and magical encounters.,17,bm25-no-stem
+85878,Peter Pan & Wendy (2023),8,Fantasy quest with friends and magical encounters.,17,bm25-no-stem
+72716,The King's Daughter (2020),9,Fantasy quest with friends and magical encounters.,17,bm25-no-stem
+58861,The Blue Bird (1976),10,Fantasy quest with friends and magical encounters.,17,bm25-no-stem
+2071,"NeverEnding Story, The (1984)",1,Fantasy quest with friends and magical encounters.,17,lmart-no-stem
+30133,Fantastic Beasts and Where to Find Them (2016),2,Fantasy quest with friends and magical encounters.,17,lmart-no-stem
+56742,Border (2018),3,Fantasy quest with friends and magical encounters.,17,lmart-no-stem
+1944,"Black Cauldron, The (1985)",4,Fantasy quest with friends and magical encounters.,17,lmart-no-stem
+6793,"Magic Sword, The (1962)",5,Fantasy quest with friends and magical encounters.,17,lmart-no-stem
+2003,Return to Oz (1985),6,Fantasy quest with friends and magical encounters.,17,lmart-no-stem
+33567,Little Witch Academia (2013),7,Fantasy quest with friends and magical encounters.,17,lmart-no-stem
+48673,Friend of the Jolly Devil (1987),8,Fantasy quest with friends and magical encounters.,17,lmart-no-stem
+46342,Wizards of the Lost Kingdom (1985),9,Fantasy quest with friends and magical encounters.,17,lmart-no-stem
+85878,Peter Pan & Wendy (2023),10,Fantasy quest with friends and magical encounters.,17,lmart-no-stem
+14379,"Crazies, The (2010)",1,Survival movie with a protagonist facing natural disasters.,18,bm25-no-stem
+49165,Geostorm (2017),2,Survival movie with a protagonist facing natural disasters.,18,bm25-no-stem
+34301,Circle (2015),3,Survival movie with a protagonist facing natural disasters.,18,bm25-no-stem
+37777,The Life of Guskou Budori (2012),4,Survival movie with a protagonist facing natural disasters.,18,bm25-no-stem
+50731,Geo-Disaster (2017),5,Survival movie with a protagonist facing natural disasters.,18,bm25-no-stem
+29075,San Andreas (2015),6,Survival movie with a protagonist facing natural disasters.,18,bm25-no-stem
+1398,Dante's Peak (1997),7,Survival movie with a protagonist facing natural disasters.,18,bm25-no-stem
+72431,Firelight (2012),8,Survival movie with a protagonist facing natural disasters.,18,bm25-no-stem
+28784,Mine (2009),9,Survival movie with a protagonist facing natural disasters.,18,bm25-no-stem
+38069,Dragon's Return (1967),10,Survival movie with a protagonist facing natural disasters.,18,bm25-no-stem
+14379,"Crazies, The (2010)",1,Survival movie with a protagonist facing natural disasters.,18,lmart-no-stem
+49165,Geostorm (2017),2,Survival movie with a protagonist facing natural disasters.,18,lmart-no-stem
+34301,Circle (2015),3,Survival movie with a protagonist facing natural disasters.,18,lmart-no-stem
+37777,The Life of Guskou Budori (2012),4,Survival movie with a protagonist facing natural disasters.,18,lmart-no-stem
+29075,San Andreas (2015),5,Survival movie with a protagonist facing natural disasters.,18,lmart-no-stem
+47251,Oceans Rising (2017),6,Survival movie with a protagonist facing natural disasters.,18,lmart-no-stem
+5786,"Noah's Arc Principle, The (Arche Noah Prinzip, Das) (1984)",7,Survival movie with a protagonist facing natural disasters.,18,lmart-no-stem
+1398,Dante's Peak (1997),8,Survival movie with a protagonist facing natural disasters.,18,lmart-no-stem
+72431,Firelight (2012),9,Survival movie with a protagonist facing natural disasters.,18,lmart-no-stem
+84666,Hamsters (2023),10,Survival movie with a protagonist facing natural disasters.,18,lmart-no-stem
+22518,Fury (2014),1,War film with intense combat scenes in a jungle backdrop.,19,bm25-no-stem
+1063,Platoon (1986),2,War film with intense combat scenes in a jungle backdrop.,19,bm25-no-stem
+2336,"Thin Red Line, The (1998)",3,War film with intense combat scenes in a jungle backdrop.,19,bm25-no-stem
+42818,Hacksaw Ridge (2016),4,War film with intense combat scenes in a jungle backdrop.,19,bm25-no-stem
+8742,Hearts and Minds (1974),5,War film with intense combat scenes in a jungle backdrop.,19,bm25-no-stem
+9397,Tae Guk Gi: The Brotherhood of War (Taegukgi hwinalrimyeo) (2004),6,War film with intense combat scenes in a jungle backdrop.,19,bm25-no-stem
+23402,'71 (2014),7,War film with intense combat scenes in a jungle backdrop.,19,bm25-no-stem
+29220,Canopy (2013),8,War film with intense combat scenes in a jungle backdrop.,19,bm25-no-stem
+6320,Battle of Britain (1969),9,War film with intense combat scenes in a jungle backdrop.,19,bm25-no-stem
+19104,Yesterday's Enemy (1959),10,War film with intense combat scenes in a jungle backdrop.,19,bm25-no-stem
+22518,Fury (2014),1,War film with intense combat scenes in a jungle backdrop.,19,lmart-no-stem
+1063,Platoon (1986),2,War film with intense combat scenes in a jungle backdrop.,19,lmart-no-stem
+2336,"Thin Red Line, The (1998)",3,War film with intense combat scenes in a jungle backdrop.,19,lmart-no-stem
+42818,Hacksaw Ridge (2016),4,War film with intense combat scenes in a jungle backdrop.,19,lmart-no-stem
+7612,Hamburger Hill (1987),5,War film with intense combat scenes in a jungle backdrop.,19,lmart-no-stem
+8742,Hearts and Minds (1974),6,War film with intense combat scenes in a jungle backdrop.,19,lmart-no-stem
+9397,Tae Guk Gi: The Brotherhood of War (Taegukgi hwinalrimyeo) (2004),7,War film with intense combat scenes in a jungle backdrop.,19,lmart-no-stem
+35924,Striker (1987),8,War film with intense combat scenes in a jungle backdrop.,19,lmart-no-stem
+23402,'71 (2014),9,War film with intense combat scenes in a jungle backdrop.,19,lmart-no-stem
+6320,Battle of Britain (1969),10,War film with intense combat scenes in a jungle backdrop.,19,lmart-no-stem
+1591,Gattaca (1997),1,Love and rebellion in a futuristic city ruled by powerful corporations.,20,bm25-no-stem
+22449,Autómata (Automata) (2014),2,Love and rebellion in a futuristic city ruled by powerful corporations.,20,bm25-no-stem
+7933,"I, Robot (2004)",3,Love and rebellion in a futuristic city ruled by powerful corporations.,20,bm25-no-stem
+81334,Mechanical Violator Hakaider (1995),4,Love and rebellion in a futuristic city ruled by powerful corporations.,20,bm25-no-stem
+14104,Avatar (2009),5,Love and rebellion in a futuristic city ruled by powerful corporations.,20,bm25-no-stem
+1475,"Fifth Element, The (1997)",6,Love and rebellion in a futuristic city ruled by powerful corporations.,20,bm25-no-stem
+2437,Logan's Run (1976),7,Love and rebellion in a futuristic city ruled by powerful corporations.,20,bm25-no-stem
+171,Judge Dredd (1995),8,Love and rebellion in a futuristic city ruled by powerful corporations.,20,bm25-no-stem
+5338,Minority Report (2002),9,Love and rebellion in a futuristic city ruled by powerful corporations.,20,bm25-no-stem
+32901,Equals (2015),10,Love and rebellion in a futuristic city ruled by powerful corporations.,20,bm25-no-stem
+1591,Gattaca (1997),1,Love and rebellion in a futuristic city ruled by powerful corporations.,20,lmart-no-stem
+22449,Autómata (Automata) (2014),2,Love and rebellion in a futuristic city ruled by powerful corporations.,20,lmart-no-stem
+7933,"I, Robot (2004)",3,Love and rebellion in a futuristic city ruled by powerful corporations.,20,lmart-no-stem
+81334,Mechanical Violator Hakaider (1995),4,Love and rebellion in a futuristic city ruled by powerful corporations.,20,lmart-no-stem
+14104,Avatar (2009),5,Love and rebellion in a futuristic city ruled by powerful corporations.,20,lmart-no-stem
+19727,Syrup (2013),6,Love and rebellion in a futuristic city ruled by powerful corporations.,20,lmart-no-stem
+1475,"Fifth Element, The (1997)",7,Love and rebellion in a futuristic city ruled by powerful corporations.,20,lmart-no-stem
+2437,Logan's Run (1976),8,Love and rebellion in a futuristic city ruled by powerful corporations.,20,lmart-no-stem
+171,Judge Dredd (1995),9,Love and rebellion in a futuristic city ruled by powerful corporations.,20,lmart-no-stem
+5338,Minority Report (2002),10,Love and rebellion in a futuristic city ruled by powerful corporations.,20,lmart-no-stem
+60798,A Fire in a Burlesque Theatre (1904),1,Action-adventure movies suitable for family audiences.,21,bm25-no-stem
+54526,The Godfather Legacy (2012),2,Action-adventure movies suitable for family audiences.,21,bm25-no-stem
+44574,Room Full of Spoons (2016),3,Action-adventure movies suitable for family audiences.,21,bm25-no-stem
+10791,RV (2006),4,Action-adventure movies suitable for family audiences.,21,bm25-no-stem
+60964,Growing Up Wild (2016),5,Action-adventure movies suitable for family audiences.,21,bm25-no-stem
+52389,Espionage Tonight (2017),6,Action-adventure movies suitable for family audiences.,21,bm25-no-stem
+46091,The Story of the Kelly Gang (1906),7,Action-adventure movies suitable for family audiences.,21,bm25-no-stem
+67335,"Robert Mitchum, le mauvais garçon d'Hollywood (2018)",8,Action-adventure movies suitable for family audiences.,21,bm25-no-stem
+85544,Louis Tomlinson: All of Those Voices (2023),9,Action-adventure movies suitable for family audiences.,21,bm25-no-stem
+31929,The Universal Clock: The Resistance of Peter Watkins (2001),10,Action-adventure movies suitable for family audiences.,21,bm25-no-stem
+60798,A Fire in a Burlesque Theatre (1904),1,Action-adventure movies suitable for family audiences.,21,lmart-no-stem
+54526,The Godfather Legacy (2012),2,Action-adventure movies suitable for family audiences.,21,lmart-no-stem
+44574,Room Full of Spoons (2016),3,Action-adventure movies suitable for family audiences.,21,lmart-no-stem
+10791,RV (2006),4,Action-adventure movies suitable for family audiences.,21,lmart-no-stem
+60964,Growing Up Wild (2016),5,Action-adventure movies suitable for family audiences.,21,lmart-no-stem
+67335,"Robert Mitchum, le mauvais garçon d'Hollywood (2018)",6,Action-adventure movies suitable for family audiences.,21,lmart-no-stem
+24231,A Night at the Movies: The Suspenseful World of Thrillers (2009),7,Action-adventure movies suitable for family audiences.,21,lmart-no-stem
+71384,Belushi (2020),8,Action-adventure movies suitable for family audiences.,21,lmart-no-stem
+85544,Louis Tomlinson: All of Those Voices (2023),9,Action-adventure movies suitable for family audiences.,21,lmart-no-stem
+31929,The Universal Clock: The Resistance of Peter Watkins (2001),10,Action-adventure movies suitable for family audiences.,21,lmart-no-stem
+11760,Superbad (2007),1,Movie with a strong emphasis on friendship and self-discovery.,22,bm25-no-stem
+1238,Fried Green Tomatoes (1991),2,Movie with a strong emphasis on friendship and self-discovery.,22,bm25-no-stem
+19793,Frances Ha (2012),3,Movie with a strong emphasis on friendship and self-discovery.,22,bm25-no-stem
+4343,Legally Blonde (2001),4,Movie with a strong emphasis on friendship and self-discovery.,22,bm25-no-stem
+23719,Wild (2014),5,Movie with a strong emphasis on friendship and self-discovery.,22,bm25-no-stem
+3323,Thelma & Louise (1991),6,Movie with a strong emphasis on friendship and self-discovery.,22,bm25-no-stem
+57228,Ralph Breaks the Internet (2018),7,Movie with a strong emphasis on friendship and self-discovery.,22,bm25-no-stem
+60188,Booksmart (2019),8,Movie with a strong emphasis on friendship and self-discovery.,22,bm25-no-stem
+3742,Steel Magnolias (1989),9,Movie with a strong emphasis on friendship and self-discovery.,22,bm25-no-stem
+216,Boys on the Side (1995),10,Movie with a strong emphasis on friendship and self-discovery.,22,bm25-no-stem
+11760,Superbad (2007),1,Movie with a strong emphasis on friendship and self-discovery.,22,lmart-no-stem
+1238,Fried Green Tomatoes (1991),2,Movie with a strong emphasis on friendship and self-discovery.,22,lmart-no-stem
+19793,Frances Ha (2012),3,Movie with a strong emphasis on friendship and self-discovery.,22,lmart-no-stem
+4343,Legally Blonde (2001),4,Movie with a strong emphasis on friendship and self-discovery.,22,lmart-no-stem
+23719,Wild (2014),5,Movie with a strong emphasis on friendship and self-discovery.,22,lmart-no-stem
+3323,Thelma & Louise (1991),6,Movie with a strong emphasis on friendship and self-discovery.,22,lmart-no-stem
+57228,Ralph Breaks the Internet (2018),7,Movie with a strong emphasis on friendship and self-discovery.,22,lmart-no-stem
+60188,Booksmart (2019),8,Movie with a strong emphasis on friendship and self-discovery.,22,lmart-no-stem
+3742,Steel Magnolias (1989),9,Movie with a strong emphasis on friendship and self-discovery.,22,lmart-no-stem
+216,Boys on the Side (1995),10,Movie with a strong emphasis on friendship and self-discovery.,22,lmart-no-stem
+1357,Jerry Maguire (1996),1,Heartwarming sports movie that inspires and uplifts.,23,bm25-no-stem
+57438,Green Book (2018),2,Heartwarming sports movie that inspires and uplifts.,23,bm25-no-stem
+3814,Remember the Titans (2000),3,Heartwarming sports movie that inspires and uplifts.,23,bm25-no-stem
+19982,Stuck in Love (2012),4,Heartwarming sports movie that inspires and uplifts.,23,bm25-no-stem
+15474,Megamind (2010),5,Heartwarming sports movie that inspires and uplifts.,23,bm25-no-stem
+14026,"Blind Side, The  (2009)",6,Heartwarming sports movie that inspires and uplifts.,23,bm25-no-stem
+1144,Cinema Paradiso (Nuovo cinema Paradiso) (1989),7,Heartwarming sports movie that inspires and uplifts.,23,bm25-no-stem
+11863,Lars and the Real Girl (2007),8,Heartwarming sports movie that inspires and uplifts.,23,bm25-no-stem
+6107,Bend It Like Beckham (2002),9,Heartwarming sports movie that inspires and uplifts.,23,bm25-no-stem
+2266,Central Station (Central do Brasil) (1998),10,Heartwarming sports movie that inspires and uplifts.,23,bm25-no-stem
+1357,Jerry Maguire (1996),1,Heartwarming sports movie that inspires and uplifts.,23,lmart-no-stem
+57438,Green Book (2018),2,Heartwarming sports movie that inspires and uplifts.,23,lmart-no-stem
+3814,Remember the Titans (2000),3,Heartwarming sports movie that inspires and uplifts.,23,lmart-no-stem
+19982,Stuck in Love (2012),4,Heartwarming sports movie that inspires and uplifts.,23,lmart-no-stem
+15474,Megamind (2010),5,Heartwarming sports movie that inspires and uplifts.,23,lmart-no-stem
+14026,"Blind Side, The  (2009)",6,Heartwarming sports movie that inspires and uplifts.,23,lmart-no-stem
+1144,Cinema Paradiso (Nuovo cinema Paradiso) (1989),7,Heartwarming sports movie that inspires and uplifts.,23,lmart-no-stem
+11863,Lars and the Real Girl (2007),8,Heartwarming sports movie that inspires and uplifts.,23,lmart-no-stem
+313,"Santa Clause, The (1994)",9,Heartwarming sports movie that inspires and uplifts.,23,lmart-no-stem
+6107,Bend It Like Beckham (2002),10,Heartwarming sports movie that inspires and uplifts.,23,lmart-no-stem
+9689,Butch and Sundance: The Early Days (1979),1,Classic Western film with iconic shootouts and rugged landscapes.,24,bm25-no-stem
+2437,Logan's Run (1976),2,Classic Western film with iconic shootouts and rugged landscapes.,24,bm25-no-stem
+1171,"Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)",3,Classic Western film with iconic shootouts and rugged landscapes.,24,bm25-no-stem
+1178,Once Upon a Time in the West (C'era una volta il West) (1968),4,Classic Western film with iconic shootouts and rugged landscapes.,24,bm25-no-stem
+40889,Red Coat (1975),5,Classic Western film with iconic shootouts and rugged landscapes.,24,bm25-no-stem
+4252,Gentlemen Prefer Blondes (1953),6,Classic Western film with iconic shootouts and rugged landscapes.,24,bm25-no-stem
+84867,Sisu (2023),7,Classic Western film with iconic shootouts and rugged landscapes.,24,bm25-no-stem
+14831,"Scalphunters, The (1968)",8,Classic Western film with iconic shootouts and rugged landscapes.,24,bm25-no-stem
+26014,The Wild North (1952),9,Classic Western film with iconic shootouts and rugged landscapes.,24,bm25-no-stem
+1250,High Noon (1952),10,Classic Western film with iconic shootouts and rugged landscapes.,24,bm25-no-stem
+9689,Butch and Sundance: The Early Days (1979),1,Classic Western film with iconic shootouts and rugged landscapes.,24,lmart-no-stem
+2437,Logan's Run (1976),2,Classic Western film with iconic shootouts and rugged landscapes.,24,lmart-no-stem
+1171,"Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)",3,Classic Western film with iconic shootouts and rugged landscapes.,24,lmart-no-stem
+1178,Once Upon a Time in the West (C'era una volta il West) (1968),4,Classic Western film with iconic shootouts and rugged landscapes.,24,lmart-no-stem
+40889,Red Coat (1975),5,Classic Western film with iconic shootouts and rugged landscapes.,24,lmart-no-stem
+4252,Gentlemen Prefer Blondes (1953),6,Classic Western film with iconic shootouts and rugged landscapes.,24,lmart-no-stem
+84867,Sisu (2023),7,Classic Western film with iconic shootouts and rugged landscapes.,24,lmart-no-stem
+14831,"Scalphunters, The (1968)",8,Classic Western film with iconic shootouts and rugged landscapes.,24,lmart-no-stem
+26014,The Wild North (1952),9,Classic Western film with iconic shootouts and rugged landscapes.,24,lmart-no-stem
+13142,"Quick and the Dead, The (1987)",10,Classic Western film with iconic shootouts and rugged landscapes.,24,lmart-no-stem
+16187,Source Code (2011),1,Films exploring the concept of time travel.,25,bm25-no-stem
+21212,Interstellar (2014),2,Films exploring the concept of time travel.,25,bm25-no-stem
+20160,About Time (2013),3,Films exploring the concept of time travel.,25,bm25-no-stem
+43084,Arrival (2016),4,Films exploring the concept of time travel.,25,bm25-no-stem
+9286,"Animatrix, The (2003)",5,Films exploring the concept of time travel.,25,bm25-no-stem
+5338,Minority Report (2002),6,Films exploring the concept of time travel.,25,bm25-no-stem
+13629,"Time Traveler's Wife, The (2009)",7,Films exploring the concept of time travel.,25,bm25-no-stem
+54640,Time Trap (2017),8,Films exploring the concept of time travel.,25,bm25-no-stem
+77508,Beyond the Infinite Two Minutes (2020),9,Films exploring the concept of time travel.,25,bm25-no-stem
+1618,Sliding Doors (1998),10,Films exploring the concept of time travel.,25,bm25-no-stem
+16187,Source Code (2011),1,Films exploring the concept of time travel.,25,lmart-no-stem
+21212,Interstellar (2014),2,Films exploring the concept of time travel.,25,lmart-no-stem
+20160,About Time (2013),3,Films exploring the concept of time travel.,25,lmart-no-stem
+43084,Arrival (2016),4,Films exploring the concept of time travel.,25,lmart-no-stem
+9286,"Animatrix, The (2003)",5,Films exploring the concept of time travel.,25,lmart-no-stem
+5338,Minority Report (2002),6,Films exploring the concept of time travel.,25,lmart-no-stem
+13629,"Time Traveler's Wife, The (2009)",7,Films exploring the concept of time travel.,25,lmart-no-stem
+54640,Time Trap (2017),8,Films exploring the concept of time travel.,25,lmart-no-stem
+77508,Beyond the Infinite Two Minutes (2020),9,Films exploring the concept of time travel.,25,lmart-no-stem
+1618,Sliding Doors (1998),10,Films exploring the concept of time travel.,25,lmart-no-stem
+18711,Cloud Atlas (2012),1,Dystopian future with young girl leading a rebellion.,26,bm25-no-stem
+22097,"Giver, The (2014)",2,Dystopian future with young girl leading a rebellion.,26,bm25-no-stem
+47735,Seven Sisters (2017),3,Dystopian future with young girl leading a rebellion.,26,bm25-no-stem
+1591,Gattaca (1997),4,Dystopian future with young girl leading a rebellion.,26,bm25-no-stem
+19625,Oblivion (2013),5,Dystopian future with young girl leading a rebellion.,26,bm25-no-stem
+13757,Gamer (2009),6,Dystopian future with young girl leading a rebellion.,26,bm25-no-stem
+39906,Embers (2015),7,Dystopian future with young girl leading a rebellion.,26,bm25-no-stem
+42987,ARQ (2016),8,Dystopian future with young girl leading a rebellion.,26,bm25-no-stem
+75939,Tides (2021),9,Dystopian future with young girl leading a rebellion.,26,bm25-no-stem
+81103,Black Crab (2022),10,Dystopian future with young girl leading a rebellion.,26,bm25-no-stem
+18711,Cloud Atlas (2012),1,Dystopian future with young girl leading a rebellion.,26,lmart-no-stem
+22097,"Giver, The (2014)",2,Dystopian future with young girl leading a rebellion.,26,lmart-no-stem
+47735,Seven Sisters (2017),3,Dystopian future with young girl leading a rebellion.,26,lmart-no-stem
+1591,Gattaca (1997),4,Dystopian future with young girl leading a rebellion.,26,lmart-no-stem
+19625,Oblivion (2013),5,Dystopian future with young girl leading a rebellion.,26,lmart-no-stem
+39906,Embers (2015),6,Dystopian future with young girl leading a rebellion.,26,lmart-no-stem
+75939,Tides (2021),7,Dystopian future with young girl leading a rebellion.,26,lmart-no-stem
+81103,Black Crab (2022),8,Dystopian future with young girl leading a rebellion.,26,lmart-no-stem
+14386,Eden Log (2007),9,Dystopian future with young girl leading a rebellion.,26,lmart-no-stem
+32901,Equals (2015),10,Dystopian future with young girl leading a rebellion.,26,lmart-no-stem
+6632,Underworld (2003),1,"Vampire, werewolf, and love.",27,bm25-no-stem
+10555,Underworld: Evolution (2006),2,"Vampire, werewolf, and love.",27,bm25-no-stem
+7316,Van Helsing (2004),3,"Vampire, werewolf, and love.",27,bm25-no-stem
+14869,"Twilight Saga: Eclipse, The (2010)",4,"Vampire, werewolf, and love.",27,bm25-no-stem
+2775,Fright Night (1985),5,"Vampire, werewolf, and love.",27,bm25-no-stem
+18090,Dark Shadows (2012),6,"Vampire, werewolf, and love.",27,bm25-no-stem
+44193,Underworld: Blood Wars (2016),7,"Vampire, werewolf, and love.",27,bm25-no-stem
+31847,Werewolf: The Beast Among Us (2012),8,"Vampire, werewolf, and love.",27,bm25-no-stem
+2554,House of Dracula (1945),9,"Vampire, werewolf, and love.",27,bm25-no-stem
+34427,Freaks of Nature (2015),10,"Vampire, werewolf, and love.",27,bm25-no-stem
+6632,Underworld (2003),1,"Vampire, werewolf, and love.",27,lmart-no-stem
+10555,Underworld: Evolution (2006),2,"Vampire, werewolf, and love.",27,lmart-no-stem
+7316,Van Helsing (2004),3,"Vampire, werewolf, and love.",27,lmart-no-stem
+14869,"Twilight Saga: Eclipse, The (2010)",4,"Vampire, werewolf, and love.",27,lmart-no-stem
+2775,Fright Night (1985),5,"Vampire, werewolf, and love.",27,lmart-no-stem
+18090,Dark Shadows (2012),6,"Vampire, werewolf, and love.",27,lmart-no-stem
+22496,What We Do in the Shadows (2014),7,"Vampire, werewolf, and love.",27,lmart-no-stem
+44193,Underworld: Blood Wars (2016),8,"Vampire, werewolf, and love.",27,lmart-no-stem
+17376,"Twilight Saga: Breaking Dawn - Part 1, The (2011)",9,"Vampire, werewolf, and love.",27,lmart-no-stem
+13816,Trick 'r Treat (2007),10,"Vampire, werewolf, and love.",27,lmart-no-stem
+1047,Willy Wonka & the Chocolate Factory (1971),1,Adaptations of classic literature into film.,28,bm25-no-stem
+6992,Diabolique (Les diaboliques) (1955),2,Adaptations of classic literature into film.,28,bm25-no-stem
+24642,The Member of the Wedding (1997),3,Adaptations of classic literature into film.,28,bm25-no-stem
+3731,"Black Sabbath (Tre volti della paura, I) (1963)",4,Adaptations of classic literature into film.,28,bm25-no-stem
+3861,"Adventures of Ichabod and Mr. Toad, The (1949)",5,Adaptations of classic literature into film.,28,bm25-no-stem
+4891,Little Otik (Otesánek) (2000),6,Adaptations of classic literature into film.,28,bm25-no-stem
+48858,Tom and Jerry: Willy Wonka and the Chocolate Factory (2017),7,Adaptations of classic literature into film.,28,bm25-no-stem
+10287,Valerie and Her Week of Wonders (Valerie a týden divu) (1970),8,Adaptations of classic literature into film.,28,bm25-no-stem
+13812,"Pit, the Pendulum and Hope, The (Kyvadlo, jáma a nadeje) (1983)",9,Adaptations of classic literature into film.,28,bm25-no-stem
+1123,Lesson Faust (1994),10,Adaptations of classic literature into film.,28,bm25-no-stem
+1047,Willy Wonka & the Chocolate Factory (1971),1,Adaptations of classic literature into film.,28,lmart-no-stem
+6992,Diabolique (Les diaboliques) (1955),2,Adaptations of classic literature into film.,28,lmart-no-stem
+3731,"Black Sabbath (Tre volti della paura, I) (1963)",3,Adaptations of classic literature into film.,28,lmart-no-stem
+3861,"Adventures of Ichabod and Mr. Toad, The (1949)",4,Adaptations of classic literature into film.,28,lmart-no-stem
+4891,Little Otik (Otesánek) (2000),5,Adaptations of classic literature into film.,28,lmart-no-stem
+48858,Tom and Jerry: Willy Wonka and the Chocolate Factory (2017),6,Adaptations of classic literature into film.,28,lmart-no-stem
+10287,Valerie and Her Week of Wonders (Valerie a týden divu) (1970),7,Adaptations of classic literature into film.,28,lmart-no-stem
+13812,"Pit, the Pendulum and Hope, The (Kyvadlo, jáma a nadeje) (1983)",8,Adaptations of classic literature into film.,28,lmart-no-stem
+1123,Lesson Faust (1994),9,Adaptations of classic literature into film.,28,lmart-no-stem
+8915,Alice (Neco z Alenky) (1988),10,Adaptations of classic literature into film.,28,lmart-no-stem
+12632,Oh! What a Lovely War (1969),1,War movies portraying the camaraderie of soldiers.,29,bm25-no-stem
+26934,Alien Outpost (2014),2,War movies portraying the camaraderie of soldiers.,29,bm25-no-stem
+33127,Beasts of No Nation (2015),3,War movies portraying the camaraderie of soldiers.,29,bm25-no-stem
+9200,Joint Security Area (Gongdong gyeongbi guyeok JSA) (2000),4,War movies portraying the camaraderie of soldiers.,29,bm25-no-stem
+17571,My Best Enemy (Mi mejor enemigo) (2005),5,War movies portraying the camaraderie of soldiers.,29,bm25-no-stem
+17675,"Flowers of War, The (Jin líng shí san chai) (2011)",6,War movies portraying the camaraderie of soldiers.,29,bm25-no-stem
+8424,Action in the North Atlantic (1943),7,War movies portraying the camaraderie of soldiers.,29,bm25-no-stem
+9997,Innocent Voices (Voces inocentes) (2004),8,War movies portraying the camaraderie of soldiers.,29,bm25-no-stem
+14698,Johnny Mad Dog (2008),9,War movies portraying the camaraderie of soldiers.,29,bm25-no-stem
+77101,Company K (2004),10,War movies portraying the camaraderie of soldiers.,29,bm25-no-stem
+12632,Oh! What a Lovely War (1969),1,War movies portraying the camaraderie of soldiers.,29,lmart-no-stem
+26934,Alien Outpost (2014),2,War movies portraying the camaraderie of soldiers.,29,lmart-no-stem
+11771,"War Tapes, The (2006)",3,War movies portraying the camaraderie of soldiers.,29,lmart-no-stem
+33127,Beasts of No Nation (2015),4,War movies portraying the camaraderie of soldiers.,29,lmart-no-stem
+40323,To Fetch a Bike (1968),5,War movies portraying the camaraderie of soldiers.,29,lmart-no-stem
+9200,Joint Security Area (Gongdong gyeongbi guyeok JSA) (2000),6,War movies portraying the camaraderie of soldiers.,29,lmart-no-stem
+11627,Flandres (Flanders) (2006),7,War movies portraying the camaraderie of soldiers.,29,lmart-no-stem
+17571,My Best Enemy (Mi mejor enemigo) (2005),8,War movies portraying the camaraderie of soldiers.,29,lmart-no-stem
+43687,Hemingway's Adventures of a Young Man (1962),9,War movies portraying the camaraderie of soldiers.,29,lmart-no-stem
+17675,"Flowers of War, The (Jin líng shí san chai) (2011)",10,War movies portraying the camaraderie of soldiers.,29,lmart-no-stem
+312,Stargate (1994),1,Treasure hunt in the Egyptian pyramids.,30,bm25-no-stem
+2526,"Mummy, The (1999)",2,Treasure hunt in the Egyptian pyramids.,30,bm25-no-stem
+8259,National Treasure (2004),3,Treasure hunt in the Egyptian pyramids.,30,bm25-no-stem
+12027,National Treasure: Book of Secrets (2007),4,Treasure hunt in the Egyptian pyramids.,30,bm25-no-stem
+17300,"Adventures of Tintin, The (2011)",5,Treasure hunt in the Egyptian pyramids.,30,bm25-no-stem
+1258,Indiana Jones and the Last Crusade (1989),6,Treasure hunt in the Egyptian pyramids.,30,bm25-no-stem
+1168,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),7,Treasure hunt in the Egyptian pyramids.,30,bm25-no-stem
+5771,Treasure Planet (2002),8,Treasure hunt in the Egyptian pyramids.,30,bm25-no-stem
+1916,"Goonies, The (1985)",9,Treasure hunt in the Egyptian pyramids.,30,bm25-no-stem
+2315,Romancing the Stone (1984),10,Treasure hunt in the Egyptian pyramids.,30,bm25-no-stem
+312,Stargate (1994),1,Treasure hunt in the Egyptian pyramids.,30,lmart-no-stem
+2526,"Mummy, The (1999)",2,Treasure hunt in the Egyptian pyramids.,30,lmart-no-stem
+8259,National Treasure (2004),3,Treasure hunt in the Egyptian pyramids.,30,lmart-no-stem
+12027,National Treasure: Book of Secrets (2007),4,Treasure hunt in the Egyptian pyramids.,30,lmart-no-stem
+17300,"Adventures of Tintin, The (2011)",5,Treasure hunt in the Egyptian pyramids.,30,lmart-no-stem
+1258,Indiana Jones and the Last Crusade (1989),6,Treasure hunt in the Egyptian pyramids.,30,lmart-no-stem
+1168,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),7,Treasure hunt in the Egyptian pyramids.,30,lmart-no-stem
+5771,Treasure Planet (2002),8,Treasure hunt in the Egyptian pyramids.,30,lmart-no-stem
+1916,"Goonies, The (1985)",9,Treasure hunt in the Egyptian pyramids.,30,lmart-no-stem
+2315,Romancing the Stone (1984),10,Treasure hunt in the Egyptian pyramids.,30,lmart-no-stem
+79424,The Albino's Trees (2016),1,Romantic dramas set in lush landscapes.,31,bm25-no-stem
+82734,What We Left Unfinished (2019),2,Romantic dramas set in lush landscapes.,31,bm25-no-stem
+58654,Grass (2018),3,Romantic dramas set in lush landscapes.,31,bm25-no-stem
+10740,ATL (2006),4,Romantic dramas set in lush landscapes.,31,bm25-no-stem
+82068,A Glass of Whiskey (1959),5,Romantic dramas set in lush landscapes.,31,bm25-no-stem
+85648,The British Garden: Life and Death on Your Lawn (2017),6,Romantic dramas set in lush landscapes.,31,bm25-no-stem
+79859,Country (2021),7,Romantic dramas set in lush landscapes.,31,bm25-no-stem
+83026,Menses (1974),8,Romantic dramas set in lush landscapes.,31,bm25-no-stem
+15292,Kanchenjungha (1962),9,Romantic dramas set in lush landscapes.,31,bm25-no-stem
+85576,Noise (2023),10,Romantic dramas set in lush landscapes.,31,bm25-no-stem
+73005,The Mystery of Agatha Christie with David Suchet (2013),1,Romantic dramas set in lush landscapes.,31,lmart-no-stem
+79424,The Albino's Trees (2016),2,Romantic dramas set in lush landscapes.,31,lmart-no-stem
+17863,"Big Year, The (2011)",3,Romantic dramas set in lush landscapes.,31,lmart-no-stem
+82734,What We Left Unfinished (2019),4,Romantic dramas set in lush landscapes.,31,lmart-no-stem
+10740,ATL (2006),5,Romantic dramas set in lush landscapes.,31,lmart-no-stem
+82068,A Glass of Whiskey (1959),6,Romantic dramas set in lush landscapes.,31,lmart-no-stem
+85648,The British Garden: Life and Death on Your Lawn (2017),7,Romantic dramas set in lush landscapes.,31,lmart-no-stem
+83026,Menses (1974),8,Romantic dramas set in lush landscapes.,31,lmart-no-stem
+85576,Noise (2023),9,Romantic dramas set in lush landscapes.,31,lmart-no-stem
+53334,The Cambridge Squatter (2017),10,Romantic dramas set in lush landscapes.,31,lmart-no-stem
+1273,When Harry Met Sally... (1989),1,Hilarious comedies perfect for a night in with friends.,32,bm25-no-stem
+10171,"40-Year-Old Virgin, The (2005)",2,Hilarious comedies perfect for a night in with friends.,32,bm25-no-stem
+1834,There's Something About Mary (1998),3,Hilarious comedies perfect for a night in with friends.,32,bm25-no-stem
+6044,How to Lose a Guy in 10 Days (2003),4,Hilarious comedies perfect for a night in with friends.,32,bm25-no-stem
+2579,Notting Hill (1999),5,Hilarious comedies perfect for a night in with friends.,32,bm25-no-stem
+4718,Serendipity (2001),6,Hilarious comedies perfect for a night in with friends.,32,bm25-no-stem
+589,Pretty Woman (1990),7,Hilarious comedies perfect for a night in with friends.,32,bm25-no-stem
+10106,Must Love Dogs (2005),8,Hilarious comedies perfect for a night in with friends.,32,bm25-no-stem
+184,Nine Months (1995),9,Hilarious comedies perfect for a night in with friends.,32,bm25-no-stem
+5498,"Son of the Bride (Hijo de la novia, El) (2001)",10,Hilarious comedies perfect for a night in with friends.,32,bm25-no-stem
+1273,When Harry Met Sally... (1989),1,Hilarious comedies perfect for a night in with friends.,32,lmart-no-stem
+10171,"40-Year-Old Virgin, The (2005)",2,Hilarious comedies perfect for a night in with friends.,32,lmart-no-stem
+1834,There's Something About Mary (1998),3,Hilarious comedies perfect for a night in with friends.,32,lmart-no-stem
+6044,How to Lose a Guy in 10 Days (2003),4,Hilarious comedies perfect for a night in with friends.,32,lmart-no-stem
+2579,Notting Hill (1999),5,Hilarious comedies perfect for a night in with friends.,32,lmart-no-stem
+4718,Serendipity (2001),6,Hilarious comedies perfect for a night in with friends.,32,lmart-no-stem
+589,Pretty Woman (1990),7,Hilarious comedies perfect for a night in with friends.,32,lmart-no-stem
+184,Nine Months (1995),8,Hilarious comedies perfect for a night in with friends.,32,lmart-no-stem
+5498,"Son of the Bride (Hijo de la novia, El) (2001)",9,Hilarious comedies perfect for a night in with friends.,32,lmart-no-stem
+10204,Just Like Heaven (2005),10,Hilarious comedies perfect for a night in with friends.,32,lmart-no-stem
+12287,Speed Racer (2008),1,"Musicals set in vibrant, nostalgic eras.",33,bm25-no-stem
+2474,"King and I, The (1956)",2,"Musicals set in vibrant, nostalgic eras.",33,bm25-no-stem
+71991,One Night Only: The Best of Broadway (2020),3,"Musicals set in vibrant, nostalgic eras.",33,bm25-no-stem
+67113,ShowBusiness: The Road to Broadway (2007),4,"Musicals set in vibrant, nostalgic eras.",33,bm25-no-stem
+6234,"Chorus Line, A (1985)",5,"Musicals set in vibrant, nostalgic eras.",33,bm25-no-stem
+3936,Annie (1982),6,"Musicals set in vibrant, nostalgic eras.",33,bm25-no-stem
+11672,East Side Story (1997),7,"Musicals set in vibrant, nostalgic eras.",33,bm25-no-stem
+73811,"Hey, Mr. Producer! The Musical World of Cameron Mackintosh (1998)",8,"Musicals set in vibrant, nostalgic eras.",33,bm25-no-stem
+62843,Fiddler: A Miracle of Miracles (2019),9,"Musicals set in vibrant, nostalgic eras.",33,bm25-no-stem
+73099,Every Act of Life (2018),10,"Musicals set in vibrant, nostalgic eras.",33,bm25-no-stem
+12287,Speed Racer (2008),1,"Musicals set in vibrant, nostalgic eras.",33,lmart-no-stem
+2474,"King and I, The (1956)",2,"Musicals set in vibrant, nostalgic eras.",33,lmart-no-stem
+71991,One Night Only: The Best of Broadway (2020),3,"Musicals set in vibrant, nostalgic eras.",33,lmart-no-stem
+67113,ShowBusiness: The Road to Broadway (2007),4,"Musicals set in vibrant, nostalgic eras.",33,lmart-no-stem
+6234,"Chorus Line, A (1985)",5,"Musicals set in vibrant, nostalgic eras.",33,lmart-no-stem
+3936,Annie (1982),6,"Musicals set in vibrant, nostalgic eras.",33,lmart-no-stem
+73811,"Hey, Mr. Producer! The Musical World of Cameron Mackintosh (1998)",7,"Musicals set in vibrant, nostalgic eras.",33,lmart-no-stem
+62843,Fiddler: A Miracle of Miracles (2019),8,"Musicals set in vibrant, nostalgic eras.",33,lmart-no-stem
+73099,Every Act of Life (2018),9,"Musicals set in vibrant, nostalgic eras.",33,lmart-no-stem
+38527,Three Seats for the 26th (1988),10,"Musicals set in vibrant, nostalgic eras.",33,lmart-no-stem
+18804,28 Hotel Rooms (2012),1,Movies celebrating the enduring power of friendship.,34,bm25-no-stem
+61431,4 Days (2017),2,Movies celebrating the enduring power of friendship.,34,bm25-no-stem
+37930,Oil: A Symphony in Motion (1933),3,Movies celebrating the enduring power of friendship.,34,bm25-no-stem
+80944,Lucy and Desi (2022),4,Movies celebrating the enduring power of friendship.,34,bm25-no-stem
+65781,One Day at Disney (2019),5,Movies celebrating the enduring power of friendship.,34,bm25-no-stem
+37937,Running Out Of Luck (1987),6,Movies celebrating the enduring power of friendship.,34,bm25-no-stem
+63405,Unearthed & Untold: The Path to Pet Sematary (2017),7,Movies celebrating the enduring power of friendship.,34,bm25-no-stem
+79915,The Super Bob Einstein Movie (2021),8,Movies celebrating the enduring power of friendship.,34,bm25-no-stem
+58252,Let's Not Meet (2018),9,Movies celebrating the enduring power of friendship.,34,bm25-no-stem
+59696,Minha Fama de Mau (2019),10,Movies celebrating the enduring power of friendship.,34,bm25-no-stem
+18804,28 Hotel Rooms (2012),1,Movies celebrating the enduring power of friendship.,34,lmart-no-stem
+37930,Oil: A Symphony in Motion (1933),2,Movies celebrating the enduring power of friendship.,34,lmart-no-stem
+80944,Lucy and Desi (2022),3,Movies celebrating the enduring power of friendship.,34,lmart-no-stem
+81106,Hoy se arregla el mundo (2022),4,Movies celebrating the enduring power of friendship.,34,lmart-no-stem
+65781,One Day at Disney (2019),5,Movies celebrating the enduring power of friendship.,34,lmart-no-stem
+37937,Running Out Of Luck (1987),6,Movies celebrating the enduring power of friendship.,34,lmart-no-stem
+63405,Unearthed & Untold: The Path to Pet Sematary (2017),7,Movies celebrating the enduring power of friendship.,34,lmart-no-stem
+79915,The Super Bob Einstein Movie (2021),8,Movies celebrating the enduring power of friendship.,34,lmart-no-stem
+58252,Let's Not Meet (2018),9,Movies celebrating the enduring power of friendship.,34,lmart-no-stem
+76787,The Boys in the Band: Something Personal (2020),10,Movies celebrating the enduring power of friendship.,34,lmart-no-stem
+19812,After Earth (2013),1,Father-son journey through outer space,35,bm25-no-stem
+73311,Space Sweepers (2021),2,Father-son journey through outer space,35,bm25-no-stem
+3645,Titan A.E. (2000),3,Father-son journey through outer space,35,bm25-no-stem
+2458,Wing Commander (1999),4,Father-son journey through outer space,35,bm25-no-stem
+4095,Battle Beyond the Stars (1980),5,Father-son journey through outer space,35,bm25-no-stem
+8290,Conquest of Space (1955),6,Father-son journey through outer space,35,bm25-no-stem
+43482,Frankenstein Meets the Spacemonster (1965),7,Father-son journey through outer space,35,bm25-no-stem
+54833,Star Crystal (1986),8,Father-son journey through outer space,35,bm25-no-stem
+24061,Moon Man (2012),9,Father-son journey through outer space,35,bm25-no-stem
+39316,Prospect (2014),10,Father-son journey through outer space,35,bm25-no-stem
+19812,After Earth (2013),1,Father-son journey through outer space,35,lmart-no-stem
+73311,Space Sweepers (2021),2,Father-son journey through outer space,35,lmart-no-stem
+3645,Titan A.E. (2000),3,Father-son journey through outer space,35,lmart-no-stem
+2458,Wing Commander (1999),4,Father-son journey through outer space,35,lmart-no-stem
+54833,Star Crystal (1986),5,Father-son journey through outer space,35,lmart-no-stem
+24061,Moon Man (2012),6,Father-son journey through outer space,35,lmart-no-stem
+39316,Prospect (2014),7,Father-son journey through outer space,35,lmart-no-stem
+47133,Space Station 3D (2002),8,Father-son journey through outer space,35,lmart-no-stem
+57655,One Small Step (2018),9,Father-son journey through outer space,35,lmart-no-stem
+24573,Spaceflight IC-1: An Adventure in Space (1965),10,Father-son journey through outer space,35,lmart-no-stem
+1911,Lethal Weapon (1987),1,Buddy cop movies featuring dynamic duos.,36,bm25-no-stem
+51954,Bright (2017),2,Buddy cop movies featuring dynamic duos.,36,bm25-no-stem
+1829,Lethal Weapon 4 (1998),3,Buddy cop movies featuring dynamic duos.,36,bm25-no-stem
+4944,48 Hrs. (1982),4,Buddy cop movies featuring dynamic duos.,36,bm25-no-stem
+143,Bad Boys (1995),5,Buddy cop movies featuring dynamic duos.,36,bm25-no-stem
+19935,"Heat, The (2013)",6,Buddy cop movies featuring dynamic duos.,36,bm25-no-stem
+1912,Lethal Weapon 2 (1989),7,Buddy cop movies featuring dynamic duos.,36,bm25-no-stem
+1913,Lethal Weapon 3 (1992),8,Buddy cop movies featuring dynamic duos.,36,bm25-no-stem
+5113,Showtime (2002),9,Buddy cop movies featuring dynamic duos.,36,bm25-no-stem
+32967,Veteran (2015),10,Buddy cop movies featuring dynamic duos.,36,bm25-no-stem
+1911,Lethal Weapon (1987),1,Buddy cop movies featuring dynamic duos.,36,lmart-no-stem
+51954,Bright (2017),2,Buddy cop movies featuring dynamic duos.,36,lmart-no-stem
+1829,Lethal Weapon 4 (1998),3,Buddy cop movies featuring dynamic duos.,36,lmart-no-stem
+4944,48 Hrs. (1982),4,Buddy cop movies featuring dynamic duos.,36,lmart-no-stem
+143,Bad Boys (1995),5,Buddy cop movies featuring dynamic duos.,36,lmart-no-stem
+1912,Lethal Weapon 2 (1989),6,Buddy cop movies featuring dynamic duos.,36,lmart-no-stem
+1913,Lethal Weapon 3 (1992),7,Buddy cop movies featuring dynamic duos.,36,lmart-no-stem
+20000,R.I.P.D. (2013),8,Buddy cop movies featuring dynamic duos.,36,lmart-no-stem
+4573,Turner & Hooch (1989),9,Buddy cop movies featuring dynamic duos.,36,lmart-no-stem
+20935,Ride Along (2014),10,Buddy cop movies featuring dynamic duos.,36,lmart-no-stem
+61859,Freaks (2019),1,Teenagers with superpowers fighting against evil.,37,bm25-no-stem
+2631,Mystery Men (1999),2,Teenagers with superpowers fighting against evil.,37,bm25-no-stem
+21620,X-Men: Days of Future Past (2014),3,Teenagers with superpowers fighting against evil.,37,bm25-no-stem
+68643,Project Power (2020),4,Teenagers with superpowers fighting against evil.,37,bm25-no-stem
+74962,Thunder Force (2021),5,Teenagers with superpowers fighting against evil.,37,bm25-no-stem
+57802,Code 8,6,Teenagers with superpowers fighting against evil.,37,bm25-no-stem
+55471,The Darkest Minds (2018),7,Teenagers with superpowers fighting against evil.,37,bm25-no-stem
+77359,The Innocents (2021),8,Teenagers with superpowers fighting against evil.,37,bm25-no-stem
+11063,"Covenant, The (2006)",9,Teenagers with superpowers fighting against evil.,37,bm25-no-stem
+57801,Code 8 (2016),10,Teenagers with superpowers fighting against evil.,37,bm25-no-stem
+61859,Freaks (2019),1,Teenagers with superpowers fighting against evil.,37,lmart-no-stem
+2631,Mystery Men (1999),2,Teenagers with superpowers fighting against evil.,37,lmart-no-stem
+21620,X-Men: Days of Future Past (2014),3,Teenagers with superpowers fighting against evil.,37,lmart-no-stem
+68643,Project Power (2020),4,Teenagers with superpowers fighting against evil.,37,lmart-no-stem
+74962,Thunder Force (2021),5,Teenagers with superpowers fighting against evil.,37,lmart-no-stem
+57802,Code 8,6,Teenagers with superpowers fighting against evil.,37,lmart-no-stem
+55471,The Darkest Minds (2018),7,Teenagers with superpowers fighting against evil.,37,lmart-no-stem
+77359,The Innocents (2021),8,Teenagers with superpowers fighting against evil.,37,lmart-no-stem
+11063,"Covenant, The (2006)",9,Teenagers with superpowers fighting against evil.,37,lmart-no-stem
+57801,Code 8 (2016),10,Teenagers with superpowers fighting against evil.,37,lmart-no-stem
+3919,Cast Away (2000),1,Survival game on a remote island.,38,bm25-no-stem
+6898,Battle Royale (Batoru rowaiaru) (2000),2,Survival game on a remote island.,38,bm25-no-stem
+7720,"Most Dangerous Game, The (1932)",3,Survival game on a remote island.,38,bm25-no-stem
+33116,Green Room (2015),4,Survival game on a remote island.,38,bm25-no-stem
+49090,Surviving Evil (2009),5,Survival game on a remote island.,38,bm25-no-stem
+43795,Take Down (2016),6,Survival game on a remote island.,38,bm25-no-stem
+45171,Lost in the Pacific (2016),7,Survival game on a remote island.,38,bm25-no-stem
+51048,The Brothers (1947),8,Survival game on a remote island.,38,bm25-no-stem
+11474,Wilderness (2006),9,Survival game on a remote island.,38,bm25-no-stem
+20886,"Savage Is Loose, The (1974)",10,Survival game on a remote island.,38,bm25-no-stem
+3919,Cast Away (2000),1,Survival game on a remote island.,38,lmart-no-stem
+6898,Battle Royale (Batoru rowaiaru) (2000),2,Survival game on a remote island.,38,lmart-no-stem
+7720,"Most Dangerous Game, The (1932)",3,Survival game on a remote island.,38,lmart-no-stem
+33116,Green Room (2015),4,Survival game on a remote island.,38,lmart-no-stem
+52077,Cold Skin (2017),5,Survival game on a remote island.,38,lmart-no-stem
+43795,Take Down (2016),6,Survival game on a remote island.,38,lmart-no-stem
+21851,Wild Oranges (1924),7,Survival game on a remote island.,38,lmart-no-stem
+78705,Apex (2021),8,Survival game on a remote island.,38,lmart-no-stem
+45171,Lost in the Pacific (2016),9,Survival game on a remote island.,38,lmart-no-stem
+20352,Paintball (2009),10,Survival game on a remote island.,38,lmart-no-stem
+3814,Remember the Titans (2000),1,Inspirational sports movies with triumphant endings.,39,bm25-no-stem
+14026,"Blind Side, The  (2009)",2,Inspirational sports movies with triumphant endings.,39,bm25-no-stem
+1865,Rocky (1976),3,Inspirational sports movies with triumphant endings.,39,bm25-no-stem
+9983,Cinderella Man (2005),4,Inspirational sports movies with triumphant endings.,39,bm25-no-stem
+519,Rudy (1993),5,Inspirational sports movies with triumphant endings.,39,bm25-no-stem
+9521,Coach Carter (2005),6,Inspirational sports movies with triumphant endings.,39,bm25-no-stem
+10073,Murderball (2005),7,Inspirational sports movies with triumphant endings.,39,bm25-no-stem
+1993,"Mighty Ducks, The (1992)",8,Inspirational sports movies with triumphant endings.,39,bm25-no-stem
+3005,"Natural, The (1984)",9,Inspirational sports movies with triumphant endings.,39,bm25-no-stem
+997,Cool Runnings (1993),10,Inspirational sports movies with triumphant endings.,39,bm25-no-stem
+3814,Remember the Titans (2000),1,Inspirational sports movies with triumphant endings.,39,lmart-no-stem
+14026,"Blind Side, The  (2009)",2,Inspirational sports movies with triumphant endings.,39,lmart-no-stem
+1865,Rocky (1976),3,Inspirational sports movies with triumphant endings.,39,lmart-no-stem
+9983,Cinderella Man (2005),4,Inspirational sports movies with triumphant endings.,39,lmart-no-stem
+519,Rudy (1993),5,Inspirational sports movies with triumphant endings.,39,lmart-no-stem
+78232,King Richard (2021),6,Inspirational sports movies with triumphant endings.,39,lmart-no-stem
+9521,Coach Carter (2005),7,Inspirational sports movies with triumphant endings.,39,lmart-no-stem
+10073,Murderball (2005),8,Inspirational sports movies with triumphant endings.,39,lmart-no-stem
+7139,Miracle (2004),9,Inspirational sports movies with triumphant endings.,39,lmart-no-stem
+1993,"Mighty Ducks, The (1992)",10,Inspirational sports movies with triumphant endings.,39,lmart-no-stem
+23780,Kingsman: The Secret Service (2015),1,Spy with gadgets and luxury cars.,40,bm25-no-stem
+17507,Mission: Impossible - Ghost Protocol (2011),2,Spy with gadgets and luxury cars.,40,bm25-no-stem
+4129,Spy Kids (2001),3,Spy with gadgets and luxury cars.,40,bm25-no-stem
+17245,Johnny English Reborn (2011),4,Spy with gadgets and luxury cars.,40,bm25-no-stem
+2855,Goldfinger (1964),5,Spy with gadgets and luxury cars.,40,bm25-no-stem
+10787,Mission: Impossible III (2006),6,Spy with gadgets and luxury cars.,40,bm25-no-stem
+637,Mission: Impossible (1996),7,Spy with gadgets and luxury cars.,40,bm25-no-stem
+7894,Taxi 3 (2003),8,Spy with gadgets and luxury cars.,40,bm25-no-stem
+21711,Mission: Impossible - Rogue Nation (2015),9,Spy with gadgets and luxury cars.,40,bm25-no-stem
+4007,"Fourth Protocol, The (1987)",10,Spy with gadgets and luxury cars.,40,bm25-no-stem
+23780,Kingsman: The Secret Service (2015),1,Spy with gadgets and luxury cars.,40,lmart-no-stem
+17507,Mission: Impossible - Ghost Protocol (2011),2,Spy with gadgets and luxury cars.,40,lmart-no-stem
+4129,Spy Kids (2001),3,Spy with gadgets and luxury cars.,40,lmart-no-stem
+17245,Johnny English Reborn (2011),4,Spy with gadgets and luxury cars.,40,lmart-no-stem
+10787,Mission: Impossible III (2006),5,Spy with gadgets and luxury cars.,40,lmart-no-stem
+56549,Johnny English Strikes Again (2018),6,Spy with gadgets and luxury cars.,40,lmart-no-stem
+21711,Mission: Impossible - Rogue Nation (2015),7,Spy with gadgets and luxury cars.,40,lmart-no-stem
+1435,"Saint, The (1997)",8,Spy with gadgets and luxury cars.,40,lmart-no-stem
+59886,Kim Possible (2019),9,Spy with gadgets and luxury cars.,40,lmart-no-stem
+11740,"Bourne Ultimatum, The (2007)",10,Spy with gadgets and luxury cars.,40,lmart-no-stem
+1976,"Purple Rose of Cairo, The (1985)",1,Fantasy movies with magical worlds.,41,bm25-no-stem
+30133,Fantastic Beasts and Where to Find Them (2016),2,Fantasy movies with magical worlds.,41,bm25-no-stem
+16444,Midnight in Paris (2011),3,Fantasy movies with magical worlds.,41,bm25-no-stem
+34044,Animals (2012),4,Fantasy movies with magical worlds.,41,bm25-no-stem
+56742,Border (2018),5,Fantasy movies with magical worlds.,41,bm25-no-stem
+2003,Return to Oz (1985),6,Fantasy movies with magical worlds.,41,bm25-no-stem
+6793,"Magic Sword, The (1962)",7,Fantasy movies with magical worlds.,41,bm25-no-stem
+82208,Upon the Magic Roads (2021),8,Fantasy movies with magical worlds.,41,bm25-no-stem
+32630,Puella Magi Madoka Magica the Movie Part I: Beginnings (2012),9,Fantasy movies with magical worlds.,41,bm25-no-stem
+3875,"Legend of Bagger Vance, The (2000)",10,Fantasy movies with magical worlds.,41,bm25-no-stem
+1976,"Purple Rose of Cairo, The (1985)",1,Fantasy movies with magical worlds.,41,lmart-no-stem
+30133,Fantastic Beasts and Where to Find Them (2016),2,Fantasy movies with magical worlds.,41,lmart-no-stem
+16444,Midnight in Paris (2011),3,Fantasy movies with magical worlds.,41,lmart-no-stem
+34044,Animals (2012),4,Fantasy movies with magical worlds.,41,lmart-no-stem
+56742,Border (2018),5,Fantasy movies with magical worlds.,41,lmart-no-stem
+2003,Return to Oz (1985),6,Fantasy movies with magical worlds.,41,lmart-no-stem
+38395,Genmu Senki Leda (1985),7,Fantasy movies with magical worlds.,41,lmart-no-stem
+64864,Ni No Kuni (2019),8,Fantasy movies with magical worlds.,41,lmart-no-stem
+6793,"Magic Sword, The (1962)",9,Fantasy movies with magical worlds.,41,lmart-no-stem
+82208,Upon the Magic Roads (2021),10,Fantasy movies with magical worlds.,41,lmart-no-stem
+39085,Jungle Cavalcade (1941),1,Films capturing youthful spirit.,42,bm25-no-stem
+54426,Holy Ghost (2014),2,Films capturing youthful spirit.,42,bm25-no-stem
+12858,Ninja III: The Domination (1984),3,Films capturing youthful spirit.,42,bm25-no-stem
+53596,And This Is Free (1965),4,Films capturing youthful spirit.,42,bm25-no-stem
+62536,Inna de Yard (2019),5,Films capturing youthful spirit.,42,bm25-no-stem
+77457,Blue Green (2007),6,Films capturing youthful spirit.,42,bm25-no-stem
+23118,See Heaven (1995),7,Films capturing youthful spirit.,42,bm25-no-stem
+67615,White Rhino (2019),8,Films capturing youthful spirit.,42,bm25-no-stem
+40323,To Fetch a Bike (1968),9,Films capturing youthful spirit.,42,bm25-no-stem
+45728,Goblin (2010),10,Films capturing youthful spirit.,42,bm25-no-stem
+39085,Jungle Cavalcade (1941),1,Films capturing youthful spirit.,42,lmart-no-stem
+72537,Babs (2017),2,Films capturing youthful spirit.,42,lmart-no-stem
+54426,Holy Ghost (2014),3,Films capturing youthful spirit.,42,lmart-no-stem
+12858,Ninja III: The Domination (1984),4,Films capturing youthful spirit.,42,lmart-no-stem
+53596,And This Is Free (1965),5,Films capturing youthful spirit.,42,lmart-no-stem
+62536,Inna de Yard (2019),6,Films capturing youthful spirit.,42,lmart-no-stem
+23118,See Heaven (1995),7,Films capturing youthful spirit.,42,lmart-no-stem
+67615,White Rhino (2019),8,Films capturing youthful spirit.,42,lmart-no-stem
+43004,Fire at Sea (2016),9,Films capturing youthful spirit.,42,lmart-no-stem
+69820,Santana (2020),10,Films capturing youthful spirit.,42,lmart-no-stem
+29693,The Martian (2015),1,Man stranded alone on Mars.,43,bm25-no-stem
+8595,Robinson Crusoe on Mars (1964),2,Man stranded alone on Mars.,43,bm25-no-stem
+2570,"War of the Worlds, The (1953)",3,Man stranded alone on Mars.,43,bm25-no-stem
+3261,Mission to Mars (2000),4,Man stranded alone on Mars.,43,bm25-no-stem
+44177,The Space Between Us (2016),5,Man stranded alone on Mars.,43,bm25-no-stem
+8791,Capricorn One (1978),6,Man stranded alone on Mars.,43,bm25-no-stem
+4837,"Angry Red Planet, The (1959)",7,Man stranded alone on Mars.,43,bm25-no-stem
+3878,Red Planet (2000),8,Man stranded alone on Mars.,43,bm25-no-stem
+55176,2036 Origin Unknown (2018),9,Man stranded alone on Mars.,43,bm25-no-stem
+75238,Stowaway (2021),10,Man stranded alone on Mars.,43,bm25-no-stem
+29693,The Martian (2015),1,Man stranded alone on Mars.,43,lmart-no-stem
+8595,Robinson Crusoe on Mars (1964),2,Man stranded alone on Mars.,43,lmart-no-stem
+2570,"War of the Worlds, The (1953)",3,Man stranded alone on Mars.,43,lmart-no-stem
+3261,Mission to Mars (2000),4,Man stranded alone on Mars.,43,lmart-no-stem
+44177,The Space Between Us (2016),5,Man stranded alone on Mars.,43,lmart-no-stem
+8791,Capricorn One (1978),6,Man stranded alone on Mars.,43,lmart-no-stem
+4837,"Angry Red Planet, The (1959)",7,Man stranded alone on Mars.,43,lmart-no-stem
+3878,Red Planet (2000),8,Man stranded alone on Mars.,43,lmart-no-stem
+75238,Stowaway (2021),9,Man stranded alone on Mars.,43,lmart-no-stem
+41831,Terra Formars (2016),10,Man stranded alone on Mars.,43,lmart-no-stem
+23242,Treasure of the Four Crowns (1983),1,Legendary archaeologist searching for a sacred artifact,44,bm25-no-stem
+7184,King Solomon's Mines (1985),2,Legendary archaeologist searching for a sacred artifact,44,bm25-no-stem
+39438,Valley of the Kings (1954),3,Legendary archaeologist searching for a sacred artifact,44,bm25-no-stem
+36827,Warlords of Atlantis (1978),4,Legendary archaeologist searching for a sacred artifact,44,bm25-no-stem
+50332,Tad Jones and the Secret of King Midas (2017),5,Legendary archaeologist searching for a sacred artifact,44,bm25-no-stem
+2656,Allan Quatermain and the Lost City of Gold (1987),6,Legendary archaeologist searching for a sacred artifact,44,bm25-no-stem
+2542,"Mummy, The (1932)",7,Legendary archaeologist searching for a sacred artifact,44,bm25-no-stem
+25348,Orion's Key (1996),8,Legendary archaeologist searching for a sacred artifact,44,bm25-no-stem
+83842,O Trapalhão nas Minas do Rei Salomão (1977),9,Legendary archaeologist searching for a sacred artifact,44,bm25-no-stem
+83667,Ram Setu (2022),10,Legendary archaeologist searching for a sacred artifact,44,bm25-no-stem
+34580,Revelation (2002),1,Legendary archaeologist searching for a sacred artifact,44,lmart-no-stem
+85915,Indiana Jones and the Dial of Destiny (2023),2,Legendary archaeologist searching for a sacred artifact,44,lmart-no-stem
+39438,Valley of the Kings (1954),3,Legendary archaeologist searching for a sacred artifact,44,lmart-no-stem
+36827,Warlords of Atlantis (1978),4,Legendary archaeologist searching for a sacred artifact,44,lmart-no-stem
+50332,Tad Jones and the Secret of King Midas (2017),5,Legendary archaeologist searching for a sacred artifact,44,lmart-no-stem
+84966,That Beautiful Somewhere (2007),6,Legendary archaeologist searching for a sacred artifact,44,lmart-no-stem
+83842,O Trapalhão nas Minas do Rei Salomão (1977),7,Legendary archaeologist searching for a sacred artifact,44,lmart-no-stem
+83667,Ram Setu (2022),8,Legendary archaeologist searching for a sacred artifact,44,lmart-no-stem
+41974,The Touch (2002),9,Legendary archaeologist searching for a sacred artifact,44,lmart-no-stem
+46229,"Blood, Sand & Gold (2017)",10,Legendary archaeologist searching for a sacred artifact,44,lmart-no-stem
+6514,"Sure Thing, The (1985)",1,A family on a cross-country road trip.,45,bm25-no-stem
+340,"Adventures of Priscilla, Queen of the Desert, The (1994)",2,A family on a cross-country road trip.,45,bm25-no-stem
+201,"To Wong Foo, Thanks for Everything! Julie Newmar (1995)",3,A family on a cross-country road trip.,45,bm25-no-stem
+30772,Vacation (2015),4,A family on a cross-country road trip.,45,bm25-no-stem
+10791,RV (2006),5,A family on a cross-country road trip.,45,bm25-no-stem
+53077,The Strangers: Prey at Night (2018),6,A family on a cross-country road trip.,45,bm25-no-stem
+14899,"Rain People, The (1969)",7,A family on a cross-country road trip.,45,bm25-no-stem
+236,"Goofy Movie, A (1995)",8,A family on a cross-country road trip.,45,bm25-no-stem
+16955,Magic Trip (2011),9,A family on a cross-country road trip.,45,bm25-no-stem
+32069,Arcadia (2012),10,A family on a cross-country road trip.,45,bm25-no-stem
+6514,"Sure Thing, The (1985)",1,A family on a cross-country road trip.,45,lmart-no-stem
+340,"Adventures of Priscilla, Queen of the Desert, The (1994)",2,A family on a cross-country road trip.,45,lmart-no-stem
+201,"To Wong Foo, Thanks for Everything! Julie Newmar (1995)",3,A family on a cross-country road trip.,45,lmart-no-stem
+30772,Vacation (2015),4,A family on a cross-country road trip.,45,lmart-no-stem
+10791,RV (2006),5,A family on a cross-country road trip.,45,lmart-no-stem
+53077,The Strangers: Prey at Night (2018),6,A family on a cross-country road trip.,45,lmart-no-stem
+14899,"Rain People, The (1969)",7,A family on a cross-country road trip.,45,lmart-no-stem
+236,"Goofy Movie, A (1995)",8,A family on a cross-country road trip.,45,lmart-no-stem
+16955,Magic Trip (2011),9,A family on a cross-country road trip.,45,lmart-no-stem
+32069,Arcadia (2012),10,A family on a cross-country road trip.,45,lmart-no-stem
+228,Dumb & Dumber (Dumb and Dumber) (1994),1,Laugh-out-loud comedies with witty humor.,46,bm25-no-stem
+8826,Eddie Murphy Delirious (1983),2,Laugh-out-loud comedies with witty humor.,46,bm25-no-stem
+21579,Neighbors (2014),3,Laugh-out-loud comedies with witty humor.,46,bm25-no-stem
+37545,The Brothers Grimsby (2016),4,Laugh-out-loud comedies with witty humor.,46,bm25-no-stem
+16601,Your Highness (2011),5,Laugh-out-loud comedies with witty humor.,46,bm25-no-stem
+2332,Christmas Vacation (National Lampoon's Christmas Vacation) (1989),6,Laugh-out-loud comedies with witty humor.,46,bm25-no-stem
+67317,Auntie Edna (2018),7,Laugh-out-loud comedies with witty humor.,46,bm25-no-stem
+30465,Minions (2015),8,Laugh-out-loud comedies with witty humor.,46,bm25-no-stem
+20041,Coffee Town (2013),9,Laugh-out-loud comedies with witty humor.,46,bm25-no-stem
+79780,Jim Gaffigan: Comedy Monster (2021),10,Laugh-out-loud comedies with witty humor.,46,bm25-no-stem
+228,Dumb & Dumber (Dumb and Dumber) (1994),1,Laugh-out-loud comedies with witty humor.,46,lmart-no-stem
+8826,Eddie Murphy Delirious (1983),2,Laugh-out-loud comedies with witty humor.,46,lmart-no-stem
+21579,Neighbors (2014),3,Laugh-out-loud comedies with witty humor.,46,lmart-no-stem
+37545,The Brothers Grimsby (2016),4,Laugh-out-loud comedies with witty humor.,46,lmart-no-stem
+2332,Christmas Vacation (National Lampoon's Christmas Vacation) (1989),5,Laugh-out-loud comedies with witty humor.,46,lmart-no-stem
+67317,Auntie Edna (2018),6,Laugh-out-loud comedies with witty humor.,46,lmart-no-stem
+20041,Coffee Town (2013),7,Laugh-out-loud comedies with witty humor.,46,lmart-no-stem
+772,"Nutty Professor, The (1996)",8,Laugh-out-loud comedies with witty humor.,46,lmart-no-stem
+79780,Jim Gaffigan: Comedy Monster (2021),9,Laugh-out-loud comedies with witty humor.,46,lmart-no-stem
+1426,Booty Call (1997),10,Laugh-out-loud comedies with witty humor.,46,lmart-no-stem
+85124,The Life and Passion of Jesus Christ (1903),1,Historical epics depicting grand-scale conflicts.,47,bm25-no-stem
+16899,Michael the Brave (Mihai Viteazul) (1971),2,Historical epics depicting grand-scale conflicts.,47,bm25-no-stem
+35687,Rendezvous with Death (1980),3,Historical epics depicting grand-scale conflicts.,47,bm25-no-stem
+81189,Reflections on Titanic (2012),4,Historical epics depicting grand-scale conflicts.,47,bm25-no-stem
+45552,Game Over (2006),5,Historical epics depicting grand-scale conflicts.,47,bm25-no-stem
+85386,Anthem (1983),6,Historical epics depicting grand-scale conflicts.,47,bm25-no-stem
+77428,The Nativity (1910),7,Historical epics depicting grand-scale conflicts.,47,bm25-no-stem
+14383,Of Time and the City (2008),8,Historical epics depicting grand-scale conflicts.,47,bm25-no-stem
+56861,Familie Brasch (2018),9,Historical epics depicting grand-scale conflicts.,47,bm25-no-stem
+80322,Black Candles (1982),10,Historical epics depicting grand-scale conflicts.,47,bm25-no-stem
+85124,The Life and Passion of Jesus Christ (1903),1,Historical epics depicting grand-scale conflicts.,47,lmart-no-stem
+16899,Michael the Brave (Mihai Viteazul) (1971),2,Historical epics depicting grand-scale conflicts.,47,lmart-no-stem
+26786,Karin Daughter of Ingmar (1920),3,Historical epics depicting grand-scale conflicts.,47,lmart-no-stem
+35687,Rendezvous with Death (1980),4,Historical epics depicting grand-scale conflicts.,47,lmart-no-stem
+68632,José Martí: el ojo del canario (2010),5,Historical epics depicting grand-scale conflicts.,47,lmart-no-stem
+13675,Krakatoa: The Last Days (2006),6,Historical epics depicting grand-scale conflicts.,47,lmart-no-stem
+85386,Anthem (1983),7,Historical epics depicting grand-scale conflicts.,47,lmart-no-stem
+14383,Of Time and the City (2008),8,Historical epics depicting grand-scale conflicts.,47,lmart-no-stem
+56861,Familie Brasch (2018),9,Historical epics depicting grand-scale conflicts.,47,lmart-no-stem
+80322,Black Candles (1982),10,Historical epics depicting grand-scale conflicts.,47,lmart-no-stem

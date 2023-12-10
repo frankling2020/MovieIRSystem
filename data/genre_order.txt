@@ -1,0 +1,20 @@
+children
+war
+animation
+romance
+adventure
+mystery
+drama
+sci-fi
+action
+film-noir
+musical
+western
+(no genres listed)
+thriller
+crime
+fantasy
+horror
+imax
+documentary
+comedy
