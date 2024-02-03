@@ -1,0 +1,98 @@
+I will provide you with 10 movies, each indicated by a numerical identifier [].
+Rank the movies based on their relevance to the search query: Crime thrillers with suspenseful interrogation scenes.. Here are the movies that you need to rank:
+[1] The Invisible Guest (2016)
+[2] Panic Room (2002)
+[3] Halloween (1978)
+[4] Jaws (1975)
+[5] Misery (1990)
+[6] Argo (2012)
+[7] Psycho (1960)
+[8] A Quiet Place Part II (2020)
+[9] Copycat (1995)
+[10] What Lies Beneath (2000)
+
+Please rank the 10 movies above based on their relevance to the search query. 
+All the movies should be included and listed using identifiers, in descending order of relevance. 
+The output format should be [] > [] > ... > [], e.g., [4] > [2] > [3] > [1] > [5] if 5 movies are given. 
+Only respond with the ranking results, do not say any word or explain the reason for the ranking and keep the answer
+as short as possible.
+
+
+I will provide you with 10 movies, each indicated by a numerical identifier [].
+Rank the movies based on their relevance to the search query: Heartwarming Christmas movies with family themes.. Here are the movies that you need to rank:
+[1] It's a Wonderful Life (1946)
+[2] Elf (2003)
+[3] Christmas Story, A (1983)
+[4] Home Alone (1990)
+[5] Santa Clause, The (1994)
+[6] Christmas Vacation (National Lampoon's Christmas Vacation) (1989)
+[7] Paddington (2014)
+[8] Klaus (2019)
+[9] Family Stone, The (2005)
+[10] Tokyo Godfathers (2003)
+
+Please rank the 10 movies above based on their relevance to the search query. 
+All the movies should be included and listed using identifiers, in descending order of relevance. 
+The output format should be [] > [] > ... > [], e.g., [4] > [2] > [3] > [1] > [5] if 5 movies are given. 
+Only respond with the ranking results, do not say any word or explain the reason for the ranking and keep the answer
+as short as possible.
+
+
+I will provide you with 10 movies, each indicated by a numerical identifier [].
+Rank the movies based on their relevance to the search query: War movies portraying the camaraderie of soldiers.. Here are the movies that you need to rank:
+[1] Oh! What a Lovely War (1969)
+[2] Alien Outpost (2014)
+[3] War Tapes, The (2006)
+[4] Beasts of No Nation (2015)
+[5] To Fetch a Bike (1968)
+[6] Joint Security Area (Gongdong gyeongbi guyeok JSA) (2000)
+[7] Flandres (Flanders) (2006)
+[8] My Best Enemy (Mi mejor enemigo) (2005)
+[9] Hemingway's Adventures of a Young Man (1962)
+[10] Flowers of War, The (Jin líng shí san chai) (2011)
+
+Please rank the 10 movies above based on their relevance to the search query. 
+All the movies should be included and listed using identifiers, in descending order of relevance. 
+The output format should be [] > [] > ... > [], e.g., [4] > [2] > [3] > [1] > [5] if 5 movies are given. 
+Only respond with the ranking results, do not say any word or explain the reason for the ranking and keep the answer
+as short as possible.
+
+
+I will provide you with 10 movies, each indicated by a numerical identifier [].
+Rank the movies based on their relevance to the search query: Inspirational sports movies with triumphant endings.. Here are the movies that you need to rank:
+[1] Remember the Titans (2000)
+[2] Blind Side, The  (2009)
+[3] Rocky (1976)
+[4] Cinderella Man (2005)
+[5] Rudy (1993)
+[6] King Richard (2021)
+[7] Coach Carter (2005)
+[8] Murderball (2005)
+[9] Miracle (2004)
+[10] Mighty Ducks, The (1992)
+
+Please rank the 10 movies above based on their relevance to the search query. 
+All the movies should be included and listed using identifiers, in descending order of relevance. 
+The output format should be [] > [] > ... > [], e.g., [4] > [2] > [3] > [1] > [5] if 5 movies are given. 
+Only respond with the ranking results, do not say any word or explain the reason for the ranking and keep the answer
+as short as possible.
+
+
+I will provide you with 10 movies, each indicated by a numerical identifier [].
+Rank the movies based on their relevance to the search query: Man stranded alone on Mars.. Here are the movies that you need to rank:
+[1] The Martian (2015)
+[2] Robinson Crusoe on Mars (1964)
+[3] War of the Worlds, The (1953)
+[4] Mission to Mars (2000)
+[5] The Space Between Us (2016)
+[6] Capricorn One (1978)
+[7] Angry Red Planet, The (1959)
+[8] Red Planet (2000)
+[9] Stowaway (2021)
+[10] Terra Formars (2016)
+
+Please rank the 10 movies above based on their relevance to the search query. 
+All the movies should be included and listed using identifiers, in descending order of relevance. 
+The output format should be [] > [] > ... > [], e.g., [4] > [2] > [3] > [1] > [5] if 5 movies are given. 
+Only respond with the ranking results, do not say any word or explain the reason for the ranking and keep the answer
+as short as possible.
