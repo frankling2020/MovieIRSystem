@@ -93,7 +93,7 @@ torch==2.1.1
 torchvision==0.16.1
 tornado==6.4
 tqdm==4.66.1
-transformers==4.35.2
+transformers==4.36.0
 trec-car-tools==2.6
 typing_extensions==4.8.0
 typish==1.9.3
