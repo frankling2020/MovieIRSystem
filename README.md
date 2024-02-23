@@ -2,6 +2,9 @@
     EECS549/SI650 Project: Movie Search Engine
 </h1>
 
+<a href=''><img src='https://img.shields.io/badge/Paper-PDF-red'></a> 
+[![Code License](https://img.shields.io/badge/Code%20License-MIT%20License-green.svg)](https://github.com/frankling2020/MovieIRSystem/blob/main/LICENSE)
+
 ### Movie Search Engine
 <div align="center">
     <img src="results/pipeline.png" style="width:75%">
