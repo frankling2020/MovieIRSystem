@@ -31,6 +31,11 @@
     One can get the encoded_movie_desc.npy through this <a href ="https://drive.google.com/file/d/1GZD0sijjbJwX08TE9m6rbN8uXvnCQM0t/view?usp=sharing">link</a> or you can reproduce it with analysis/vev_rep_with_pertrain.ipynb file.
 </p>
 
+
+### Notice
+For an efficient search engine backend, please go to this [repo](https://github.com/frankling2020/WikipediaSearchEngine) in branch `hw1`. It has the efficient implementation.
+
+
 ### Setup
 
 1. Install Python 3.11 (preferred)
